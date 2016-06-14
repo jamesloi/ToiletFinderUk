@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="923207444595066"
+    token="-2998000567879457415" >
+
+    <task
+        name="javac"
+        duration="273" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+
+    <build timestamp="923092752163755" >
+        <artifact
+            location="C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="923207444595066" >
+        <artifact
+            location="C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
