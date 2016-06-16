@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_location_searching_white_24dp.png",
+        "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\src\\main\\res\\mipmap-hdpi\\ic_location_searching_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_my_location_white_24dp.png",
+        "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\src\\main\\res\\mipmap-hdpi\\ic_my_location_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
 		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:3:5-50
 		INJECTED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml
@@ -1120,6 +1120,8 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\James.Loi\AndroidSt
 		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.example.jamesloi.toiletfinderuk.MainActivity
 ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:label
+		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:11:48-82
 	android:name
 		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
@@ -1175,10 +1177,6 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:20:5-79
 	android:name
 		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:20:22-76
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:21:5-80
-	android:name
-		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:21:22-78
 uses-sdk
 INJECTED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78

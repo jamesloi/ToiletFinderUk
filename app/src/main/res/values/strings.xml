@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Find your nearest toilet</string>
+    <string name="app_name">ToiletFinderUk</string>
+    <string name="action_findme">Find Me</string>
+    <string name="menu_title">Find your nearest toilet</string>
 </resources>
