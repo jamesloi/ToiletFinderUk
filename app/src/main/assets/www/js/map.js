@@ -18,25 +18,35 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 mymap.on('click', function (e) {
+    getToiletData();
+});
+
+Android.getLastLocation();
+
+function getToiletData(){
     var bounds = mymap.getBounds();
     var boundsArray = bounds.toBBoxString();
     var bbox = boundsArray.split(',');
     var api = overPassApi.replace('{slat}',bbox[1]).replace('{slng}',bbox[0]).replace('{nlat}',bbox[3]).replace('{nlng}',bbox[2]);
     console.log(api);
-    var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", api, false );
-    xmlHttp.send( null );
-    console.log(xmlHttp.responseText);
-    var jsonResult = xmlHttp.responseText;
-  L.geoJson(jsonResult, {
-      pointToLayer: function (feature, latlng) {
-          return L.marker(latlng, {icon: toiletIcon});
-      },
-      onEachFeature: onEachFeature
-  }).addTo(mymap);
-});
-
-//Android.getLastLocation();
+    $.ajax({
+        url: api,
+        dataType: 'json',
+        type: 'GET',
+        async: true,
+        crossDomain: true
+    }).done(function(json) {
+       var geoJson = osmtogeojson(json);
+        L.geoJson(geoJson, {
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {icon: toiletIcon});
+            },
+            onEachFeature: onEachFeature
+        }).addTo(mymap);
+    }).fail(function(xhr, status, error) {
+        console.log( "error: " +  error);
+    });
+}
 
 function getLocation(longitude, latitude)
 {
