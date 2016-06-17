@@ -9,17 +9,33 @@ var toiletIcon = L.icon({
                       popupAnchor: [0, -28]
                   });
 
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
+var geojsonMarkerOptions = {
+    radius: 8,
+    fillColor: "#ffff00",
+    color: "#ff0000",
+    weight: 3,
+    opacity: 1,
+    fillOpacity: 0.8
+};
+
+/*L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
     maxZoom: 18,
     id: 'mapbox.streets'
-}).addTo(mymap);
+}).addTo(mymap);*/
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
-mymap.on('click', function (e) {
+/*mymap.on('click', function (e) {
     getToiletData();
-});
+});*/
+
+L.geoJson(geoJsonFull, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+    },
+    onEachFeature: onEachFeature
+}).addTo(mymap);
 
 Android.getLastLocation();
 
