@@ -1,0 +1,18 @@
+{lb}
+     "type":"Feature",
+     "properties":  {lb}
+     "{h1}":"{f1}"
+    ,"{h2}":"{f2}"
+    ,"{h5}":"{f5}"
+    ,"{h6}":"{f6}"
+    ,"{h7}":{(f7)==""?"null":f7}
+    ,"{h8}":"{f8}"
+    ,"{h9}":"{f9}"
+    {rb},
+    "geometry": {lb}
+            "type":"Point",
+            "coordinates": [
+    {f4},{f3}
+            ]
+    {rb}
+{rb}
