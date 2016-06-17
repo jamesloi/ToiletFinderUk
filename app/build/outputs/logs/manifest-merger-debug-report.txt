@@ -2,7 +2,7 @@
 manifest
 ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:3:5-50
+		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:3:5-49
 		INJECTED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -1118,7 +1118,7 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\James.Loi\AndroidSt
 		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:10:9-40
-activity#com.example.jamesloi.toiletfinderuk.MainActivity
+activity#com.woogle.jamesloi.toiletfinderuk.MainActivity
 ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:label
 		ADDED from C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\src\main\AndroidManifest.xml:11:48-82
@@ -3039,7 +3039,7 @@ ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\James.Loi\Android
 		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\AndroidManifest.xml:30:13-48
 	android:name
 		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\AndroidManifest.xml:29:18-77
-permission#com.example.jamesloi.toiletfinderuk.permission.C2D_MESSAGE
+permission#com.woogle.jamesloi.toiletfinderuk.permission.C2D_MESSAGE
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
@@ -3048,7 +3048,7 @@ MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidS
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
-uses-permission#com.example.jamesloi.toiletfinderuk.permission.C2D_MESSAGE
+uses-permission#com.woogle.jamesloi.toiletfinderuk.permission.C2D_MESSAGE
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\James.Loi\AndroidStudioProjects\ToiletFinderUk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79

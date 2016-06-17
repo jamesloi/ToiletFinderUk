@@ -248,12 +248,12 @@
         "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
         "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.2\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_ic_googleplayservices.png",

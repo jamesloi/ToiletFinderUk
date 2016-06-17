@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jamesloi.toiletfinderuk"
+    package="com.woogle.jamesloi.toiletfinderuk"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -16,10 +16,10 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="com.example.jamesloi.toiletfinderuk.permission.C2D_MESSAGE"
+        android:name="com.woogle.jamesloi.toiletfinderuk.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.jamesloi.toiletfinderuk.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.woogle.jamesloi.toiletfinderuk.permission.C2D_MESSAGE" />
 
     <uses-feature
         android:glEsVersion="0x00020000"
@@ -32,7 +32,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.jamesloi.toiletfinderuk.MainActivity"
+            android:name="com.woogle.jamesloi.toiletfinderuk.MainActivity"
             android:label="@string/menu_title" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -60,7 +60,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.example.jamesloi.toiletfinderuk.firebaseinitprovider"
+            android:authorities="com.woogle.jamesloi.toiletfinderuk.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -96,7 +96,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.example.jamesloi.toiletfinderuk" />
+                <category android:name="com.woogle.jamesloi.toiletfinderuk" />
             </intent-filter>
         </receiver>
         <!--
@@ -157,7 +157,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:noHistory="true" >
  <!-- optional, removes the previewActivity from the activity stack. -->
             <intent-filter>
-                <data android:scheme="tagmanager.c.com.example.jamesloi.toiletfinderuk" />
+                <data android:scheme="tagmanager.c.com.woogle.jamesloi.toiletfinderuk" />
 
                 <action android:name="android.intent.action.VIEW" />
 
