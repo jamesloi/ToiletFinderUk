@@ -92140,6 +92140,29490 @@ var geoJsonFull = {
                             52.6073964
                           ]
                         }
-                      }
+                      },
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Street Car Park Ash"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":"CT3 2HH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.276127,51.279068
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St Mary's Meadow Wingham"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":"CT3 1DF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.2158167,51.273492
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hamilton Road Cemetery Deal"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":"CT14 9BP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3920486,51.213975
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"King Street Deal"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 21:00"
+    ,"postcode":"CT14 6HX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4030376,51.224702
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"South Street Deal"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 21:00"
+    ,"postcode":"CT14 7AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4035998,51.222032
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Marine Road Deal"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 21:00"
+    ,"postcode":"CT14 7DN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4030827,51.216191
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Granville Road Walmer Deal"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"CT14 7LQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4025248,51.203389
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Victoria Park Deal"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"CT14 9UU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3986288,51.219307
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Undercliffe Road Kingsdown"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - Dusk"
+    ,"postcode":"CT14 8AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4029732,51.185394
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Reach Road St Margarets"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":"CT15 6AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3718722,51.153076
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St Margarets Bay"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":"CT15 6DY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3855083,51.151
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Stembrook Car Park Dover"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep: Mo-Sa 07:00-21:00, Su 08:00-18:00; Oct-Mar Mo-Sa 08:00-Dusk"
+    ,"postcode":"CT16 1PG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.31396,51.126353
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Maison Dieu Gardens Dover"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep: Mo-Sa 07:00-21:00, Su 08:00-18:00; Oct-Mar Mo-Sa 08:00-Dusk"
+    ,"postcode":"CT16 1DW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3096377,51.128077
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Connaught Park"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":"CT16 1HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3096649,51.134651
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Kearsney Abbey"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":"CT16 3DZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.2692544,51.147905
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Aylesham Road Cemetery"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1782813,51.21293
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Markewood Deal"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00 - 18:00"
+    ,"postcode":"CT14 7LF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3975918,51.206789
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fell Street Barrow-in-Furness"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-17:30"
+    ,"postcode":"LA14 1PU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.2249015,54.113987
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tudor Square Dalton-in-Furness"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-17:30"
+    ,"postcode":"LA15 8RJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.1773287,54.157838
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Piel Street Roa Island Barrow-in-Furness"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-17:30"
+    ,"postcode":"LA13 0QL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.1746041,54.074581
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hawthwaite Land Barrow-in-Furness"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-17:30"
+    ,"postcode":"LA14 4QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.2260056,54.169513
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Barrow Public Park Abbey Road Barrow-in-Furness"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-17:30"
+    ,"postcode":"LA13 9BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.2170009,54.11741
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Shore Road Barrow-in-Furness"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-17:30"
+    ,"postcode":"LA14 3XZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.2702178,54.118595
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Bridge Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE61 5YJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5375892,55.211306
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Matfen"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE20 0TE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9558731,55.041233
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hadston, The Precinct"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE65 9YF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6041191,55.294443
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Morpeth, The Willows"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE61 1YA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6855357,55.166757
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whalton, South Side"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE61 3UZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.798379,55.127377
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ponteland, Merton Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE20 9NN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7443128,55.050346
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cresswell, Morpeth"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE61 5JU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5388683,55.235249
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cambo, Morpeth"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE61 4BA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9609971,55.16357
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hexham, Wentworth Car Park, Alemouth Road"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"May-Sep: Mo-Su 06:30-21:00; Oct-Apr: Mo-Su 06:30-18:00"
+    ,"postcode":"NE46 1XB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0980848,54.971011
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wylam, Main Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 07:30-18:30"
+    ,"postcode":"NE41 8DT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8188387,54.975759
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wark, Front Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE48 3LT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2201314,55.087859
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Prudhoe, Neale Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 06:30-16:30"
+    ,"postcode":"NE42 5HP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8479659,54.961655
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Allendale, Hexham"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"May-Sep: Mo-Su 07:00-21:00; Oct-Apr: Mo-Su 07:30-20:00"
+    ,"postcode":"NE47 9BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2532061,54.897332
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Blanchland, Hexham"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"DH8 9SR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0536341,54.847504
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, The Green"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE42 6DU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9000793,54.968664
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Newbrough, Hexham, Sidgate Lane,"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE47 5AZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1968816,55.004876
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Corbridge, Princes Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"May-Sep: Mo-Su 07:00-20:00; Oct-Apr: Mo-Su 07:00-19:00"
+    ,"postcode":"NE45 5AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0177632,54.974042
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bellingham, Hexham"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"May-Sep: Mo-Su 07:00-21:00; Oct-Apr: Mo-Su 07:30-19:00"
+    ,"postcode":"NE48 2BL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.253847,55.144864
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Allenheads, Hexham"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"May-Sep: Mo-Su 08:00-21:00; Oct-Apr: Mo-Su 09:00-21:00"
+    ,"postcode":"NE47 9HN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2200372,54.80233
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hexham, Tyne Green Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"May-Sep: Mo-Su 06:00-21:00; Oct-Apr: Mo-Su 06:30-18:00"
+    ,"postcode":"NE46 3SG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1008814,54.97738
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Otterburn"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE19 1NP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1788829,55.231756
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hexham, Sele Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 06:30-17:30"
+    ,"postcode":"NE46 3QZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1047887,54.971976
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Bridge Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE64 6EG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5103464,55.185095
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bedlington, Rear of Front Street West,"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-17:30"
+    ,"postcode":"NE22 5UB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5981202,55.132003
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Rear Of, Market Place"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE22 5DN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5924479,55.131481
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, West Sleekburn"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE62 5XE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5610657,55.16144
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Bothal Bank"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE61 6SW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.626406,55.173186
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Newbiggin-By-The-Sea, High Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"NE64 6DR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5049521,55.18697
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Black Close Bank"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE63 8TF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5728818,55.167556
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Peoples Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE63 8EB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5790665,55.181003
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ashington, Adjacent 5, Station Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"NE63 9UZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5697754,55.183441
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Portland Public Convenience"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE63 8HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5837764,55.182609
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Main Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE23 7HH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5550953,55.061762
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Seaton Delaval"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Th 07:30-15:30; Nov-Mar: Fr 07:30-15:30; Nov-Mar: Sa-Su 07:30-18:00"
+    ,"postcode":"NE25 0AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5244187,55.072807
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rochester"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE19 1TX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3937727,55.322655
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Blyth,Keel Row, Union Street"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-17:00, Su off"
+    ,"postcode":"NE24 1AL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5078316,55.127871
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Newbiggin-By-The-Sea, Bridge Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:30"
+    ,"postcode":"NE64 6EG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5104905,55.184871
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Seaton Sluice, Links Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Th 07:30-15:30; Nov-Mar: Fr 07:30-15:00; Nov-Mar: Sa-Su 07:30-18:00"
+    ,"postcode":"NE26 4QZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4807811,55.08663
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Morpeth Adjacent 22-23, Sanderson Arcade"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE61 1NS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6889335,55.167853
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Morpeth, Adjacent Bus Station, Sanderson Arcade"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 08:00-18:00, Su 10:00-15:00"
+    ,"postcode":"NE61 1NS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6899795,55.168593
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rothbury, Bridge Street"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 06:00-18:30"
+    ,"postcode":"NE65 7SE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9096716,55.309311
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Alnwick, The Shambles"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 06:30-18:00"
+    ,"postcode":"NE66 1SS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7072603,55.413102
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Alnwick,Greenwell Road"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 06:00-18:30"
+    ,"postcode":"NE66 1SF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7032637,55.413164
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Warkworth, Brewery Lane"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE65 0UX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.612544,55.347819
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Alnmouth, Marine Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE66 2RZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6111317,55.387369
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Newton-By-The-Sea, Rear Of Ship Inn"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE66 3HJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6202899,55.513888
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Amble, Broomhill Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 07:00-17:00"
+    ,"postcode":"NE65 0AN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5777233,55.336202
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Craster, West End"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE66 3TW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5969366,55.471635
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Alwinton,Gallow Law"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE65 7BQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1284668,55.350862
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Boulmer, Coastguard Cottages"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE66 3BU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5818189,55.420331
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Thropton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.956785,55.314683
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Riverside"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE65 7SH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.911785,55.308225
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Amble, Queen Street"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE65 0DQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5816972,55.33458
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences, Attlee Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5860728,55.126149
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Church Lane"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE22 5RT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5814546,55.119394
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Carlisle Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.690842,55.16465
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, West End"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"TD15 2XN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1156212,55.741199
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Cawfields"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4505831,54.992797
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Back Woodhorn Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE63 9AF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5665954,55.184158
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Beadnell,Benthall"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":"Jun-Aug: Mo-Su 09:00-18:00; Sep-Oct: Mo-Su 10:00-15:00; Nov-Mar:off; Apr-May: Mo-Su 10:00-15:00"
+    ,"postcode":"NE67 5EE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6288124,55.552282
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Heatherslaw Mill,Ford, Berwick"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TD12 4TJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.107901,55.63909
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Norham, Berwick"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TD15 2ND"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1604759,55.718838
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Spittal, Promenade"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TD15 1RN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9904937,55.756869
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cramlington, Dudley Court, Manor Walks"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE23 6QW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5880166,55.085053
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, East End"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE26 4RL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4647432,55.075741
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cramlington, Craster Court, Manor Walks"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE23 6UT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.59122,55.085837
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Blyth, Market Street"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-17:00, Su 18:00-16:00"
+    ,"postcode":"NE24 1BQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5108085,55.126814
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bamburgh, Church Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"NE69 7BN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7166238,55.607659
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kielder"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE48 1BX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4753363,55.174636
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Seaton Sluice, The Links"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Th 07:30-15:30; Nov-Mar: Fr 07:30-15:30; Nov-Mar: Sa-Su 07:30-18:00"
+    ,"postcode":"NE26 4JZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4916529,55.09532
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Holy Island, Crossgate Lane"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mar-Oct: 24/7"
+    ,"postcode":"TD15 2ST"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8014971,55.670569
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ford, Ladies, Public Convenience"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TD15 2QG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0849632,55.632297
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ford, Berwick"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TD15 2QG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0849632,55.632297
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Housesteads Roman Fort, Hexham"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE47 6NN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3324409,55.011878
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wooler, Weetwood Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE71 6AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0098466,55.546975
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bamburgh, Links Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":"Mar-Oct: 24/7"
+    ,"postcode":"NE69 7DF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6955876,55.604122
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Berwick-upon-Tweed, Castlegate"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TD15 1JS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0063341,55.771551
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Berwick-Upon-Tweed,Eastern Lane"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"TD15 1AT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0037517,55.769359
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Berwick-Upon-Tweed, Magdelene Fields"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mar-Oct: Mo-Su 09:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9977106,55.775999
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences, Astley Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5233567,55.07124
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Rocky Island"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4724525,55.083808
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Haltwhistle, Westgate"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 06:00-16:30"
+    ,"postcode":"NE49 9AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4618532,54.969768
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Haydon Bridge, John Martin Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 06:00-20:00"
+    ,"postcode":"NE47 6ND"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2440913,54.973114
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hexham, St Marys Wynd"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"May-Sep: Mo-Su 06:30-21:00; Oct-Apr: Mo-Su 06:30-18:00"
+    ,"postcode":"NE46 1LW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1022541,54.970414
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wall, Hexham, The Green"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE46 4DX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1298035,55.017026
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Prudhoe, West Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 06:30-16:30"
+    ,"postcode":"NE42 6HR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8535591,54.961069
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Blyth, Cowpen Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE24 5JN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5383843,55.130291
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Blyth, Plessey Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Th 07:30-15:30; Nov-Mar: Fr 07:30-15:30; Nov-Mar: Sa-Su 07:30-18:00"
+    ,"postcode":"NE24 4AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5116697,55.119206
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Belford, Market Place"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE70 7NF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8278846,55.598898
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Berwick-Upon-Tweed, Woolmarket"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"TD15 1DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0017434,55.7689
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Holy Island, Green Lane"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TD15 2SQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7995809,55.672201
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Seahouses, Old Station Yard, Seafield Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE68 7SN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6540077,55.582016
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wooler, High Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE71 6BY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0144424,55.546283
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Padgepool Place"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE71 6BL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0185948,55.546731
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ashington, Milburn Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 07:30-24:00"
+    ,"postcode":"NE63 0NA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5636628,55.17659
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience, Wansbeck Square"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"NE63 9XH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5733896,55.183229
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bedlington, Station Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"NE22 5HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5689403,55.140018
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Choppington, South Parade"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE62 5RB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6036354,55.157901
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Haltwhistle,Black Bull Lane"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NE49 0BT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4588584,54.970148
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Conyngham Hall"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG5 9AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4750167,54.009627
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bus Station, Knaresborough"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG5 8BT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4656746,54.007527
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Castleyard"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG5 8AS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4675592,54.006915
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"York Place (CP)"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG5 0AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4611847,54.006653
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bond End"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG5 9AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4703922,54.01091
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Waterside"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG5 9AZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4700875,54.007268
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Devonshire Place"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG1 4AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5288364,53.997321
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ripley"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG3 3AY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5678755,54.038271
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Valley Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-6pm"
+    ,"postcode":"HG1 2PP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5527293,53.991192
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crescent Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG1 2SP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5465484,53.994351
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Victoria  (MSCP)"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"7am-7pm"
+    ,"postcode":"HG1 1AD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5371886,53.993839
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Stray Ponds"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG1 5AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5262854,53.99225
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Library Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG1 1EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5383024,53.991048
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Oatlands"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG2 8BX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5296921,53.979582
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Starbeck"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG2 7HX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5003801,53.997898
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Park (MSCP)"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG1 1HS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5395309,53.988913
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jubilee  (MSCP)"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG1 1BS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5425044,53.994524
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bus Station, Ripon"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG4 1LG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5212578,54.136635
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Minster Road"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG4 1QS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5204134,54.135535
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Spa Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG4 2BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5293017,54.135885
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wakeman's House"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG4 1ED"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5244793,54.135992
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Masham"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG4 4DX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6560146,54.222566
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lofthouse"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 hours"
+    ,"postcode":"HG3 5ST"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8456772,54.155741
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Middlesmoor"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 hours"
+    ,"postcode":"HG3 5ST"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8606724,54.163587
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Southlands (CP), Pateley Bridge"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 hours"
+    ,"postcode":"HG3 5ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7595508,54.085911
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Recreation, Pateley Bridge"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am-8pm"
+    ,"postcode":"HG3 5HQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7614958,54.085286
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Glasshouses"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 hours"
+    ,"postcode":"HG3 5QQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7325316,54.077576
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dacre Banks"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 hours"
+    ,"postcode":"HG3 4ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7012797,54.053686
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Aldingham"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-dusk"
+    ,"postcode":"LA12 9RT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.0985289,54.129758
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Low Fold Car Park, Lake Road, Ambleside"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"LA22 0DN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9613792,54.425933
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mechanics Institute, Rear of Market Place, Lake Road, Ambleside"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Oct 08:30-19:00, Nov-Mar 08:30-17:00"
+    ,"postcode":"LA22 9BY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9615772,54.431755
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rydal Road, Ambleside"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Oct 08:30-19:00, Nov-Mar 08:30-17:00"
+    ,"postcode":"LA22 9PL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9639696,54.433848
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rothay Park, (opposite St Mary's Church), Vicarage Lane, Ambleside"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct 09:00-19:00"
+    ,"postcode":"LA22 9DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9671582,54.431118
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"White Platts Recreation Ground, Compston Road, Ambleside"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-May 11:00-17:00, June-Sep 10:00-19:00, PH 10:00-19:00, Oct 11:00-17:00, Nov-Mar closed unless PH"
+    ,"postcode":"LA22 9DJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.965594,54.428847
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Promenade, (seaward side), Arnside"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"LA5 0HD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8338761,54.203147
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bardsea"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"LA12 9QU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.0703637,54.159771
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Square, Broughton-in-Furness"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LA20 6HZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.2105517,54.2781
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Station Road, Cark-in-Cartmel"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-19:00"
+    ,"postcode":"LA11 7NY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9768428,54.18016
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cartmel"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"LA11 7NY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9537126,54.200397
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chapel Stile"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct 09:00-18:00"
+    ,"postcode":"LA22 9JJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.0470152,54.438523
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bridge Toilets, Bridge House, Coniston"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct 07:00-22:00; Nov-Mar closed"
+    ,"postcode":"LA21 8HJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.0761144,54.368685
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Church Hill, Grange-over-Sands"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"dawn-dusk"
+    ,"postcode":"LA11 6DD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9104996,54.193469
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ornamental Gardens, Grange-over-Sands"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"dawn-dusk"
+    ,"postcode":"LA11 6DP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9051826,54.195639
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Promenade, opposite Lido, Grange-over-Sands"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"dawn-dusk"
+    ,"postcode":"LA11 7DQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9125727,54.187387
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Victoria Hall, Main Street, Grange-over-Sands"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"PH Easter-Oct 10:00-16:00, Nov-PH Easter Mo-Sa 10:00-16:00"
+    ,"postcode":"LA11 6DG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9079717,54.194216
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Moss Parrock, Collega Street, Grasmere"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Oct 09:00-18:00, Nov-Mar 09:00-17:00"
+    ,"postcode":"LA22 9SU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.0205175,54.456769
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jingling Lane, Kirkby Lonsdale"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":"06:00-22:00"
+    ,"postcode":"LA6 2AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5957144,54.201702
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Devils Bridge, Kirkby Lonsdale"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"06:00-22:00"
+    ,"postcode":"LA6 2LA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5920076,54.198691
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lindale Recreation Ground, Grange Road, Lindale"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct 09:00-21:00"
+    ,"postcode":"LA11 6LJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.894581,54.215743
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Square, Milnthorpe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LA7 7PN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7716308,54.226785
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Main Street, Sedbergh"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":"LA10 5AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5258322,54.323923
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Windermere Road, Staveley"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct 08:00-19:00, Nov-Mar 08:00-17:00"
+    ,"postcode":"LA8 9LY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8180785,54.377909
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Brogden Street, adjacent to Coronation Hall, Ulverston"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"LA12 7AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.0940246,54.194575
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Gill, Ulverston"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"LA12 7BJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.0971397,54.197603
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Baddeley Clock, Lake Road, Windermere"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":"PH Easter-SH Oct 24/7"
+    ,"postcode":"LA23 3EF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9096641,54.372931
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bowness Bay, Glebe Road, Windermere"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.40
+    ,"openinghours":"09:00-18:00"
+    ,"postcode":"LA23 3HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9229488,54.361946
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Braithwaite Fold, Windermere"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"PH Easter-SH Oct Mo-Su 09:00-1800"
+    ,"postcode":"LA23 3HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9238634,54.358128
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Broad Street, Windermere"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"09:00-18:00"
+    ,"postcode":"LA23 1PY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.905785,54.37713
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ferry Nab Road, Bowness"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"LA23 3JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9281189,54.355768
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Quarry Rigg, Bowness"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"LA23 3BJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9174263,54.366194
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rayrigg Meadow, Rayrigg Road, Bowness"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":"PH Easter-SH Oct 24/7"
+    ,"postcode":"LA23 1BP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.919591,54.379039
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rayrigg Road Car Park, Windermere"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"09:00-18:00"
+    ,"postcode":"LA23 3BZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9194995,54.379075
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"K Village - the Lakes Outlet, Riverside Place, Lound Road, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 09:30-18:00;  Su: 10:00-17:00"
+    ,"postcode":"LA9 7FH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7434037,54.319579
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Abbot Hall Coffee Shop, Abbot Hall Art Gallery, Kirkland, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct Mo-Sa 10:30-17:00; Nov-Mar Mo-Sa 10:30-16:00"
+    ,"postcode":"LA9 5AL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7439569,54.322973
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Brewery Arts Centre, 122a Highgate, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-We 12:00-23:00;  Th-Sa 10:00-12:00; Su 12:30-22:30"
+    ,"postcode":"LA9 4HE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7482479,54.324744
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kendal Town Hall, Highgate, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-17:00"
+    ,"postcode":"LA9 4DL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.74735,54.326951
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Quaker Tapestry, Friends Meetign House, Stramongate, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:30-17:30; Apr-Oct Sa 09:30-17:00"
+    ,"postcode":"LA9 4BH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7429813,54.328551
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Beales, 37-58 Finkle Street, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 09:00-17:30;  Su 11:00-16:00"
+    ,"postcode":"LA9 4AL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7454445,54.327862
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Westmorland Shopping Centre, Stricklandgate, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"Mo-Sa 08:30-18:00;  Su 10:00-16:30"
+    ,"postcode":"LA9 4LR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7459296,54.32918
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Charlies Caf??? Bar, 95 Stricklandgate, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:30-17:00;"
+    ,"postcode":"LA9 4RA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7471302,54.330089
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Wakefield Arms (Table Table), Maude Street, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 06:30-24:00; Sa 07:00-24:00; Su 07:00-23:00"
+    ,"postcode":"LA9 4QD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7482637,54.330693
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"JD Wetherspoon - The Miles Thompson, Allhallows Lane, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Su-Th 08:00-23:00; Fr-Sa 08:00-24:00"
+    ,"postcode":"LA9 4JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7488209,54.326663
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Rainbow Tavern, 32 Highgate, Kendal"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 11:30-23:00; Su 12:00-23:00"
+    ,"postcode":"LA9 4SX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7480303,54.327153
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Globe Inn, Market Place, Kendal"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 12:00-24:00; Su 12:00-22:30"
+    ,"postcode":"LA9 4TN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7465331,54.328538
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Booths, Wainrights Yard, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-19:00; Su 09:30-17:00"
+    ,"postcode":"LA9 4DP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7487231,54.328048
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"McDonald's, Stricklandgate, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Su-Th 06:00-22:00; Fr-Sa 06:00-23:00"
+    ,"postcode":"LA9 4LT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.747027,54.329487
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"South Lakeland House, Lowther Street, Kendal"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 08:30-17:00"
+    ,"postcode":"LA9 4UF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7463672,54.32702
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Abbey Gardens"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG31 6PZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.64021657,52.91085
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Red Lion Square"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PE9 2AJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.48069967,52.651866
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wyndham Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG31 9BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.63728907,52.917892
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Dysart Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG31 6JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.63185137,52.903544
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Corn Exchange"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PE10 9EF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37596781,52.768073
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Market Place"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PE6 8EA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.31716269,52.675459
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Albion Street Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 05 Oct 2014 : Mo - Su 08:00 - 19:00;   05 Oct 2014  - Mar 2015 : Closed"
+    ,"postcode":"CT10 1LU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4432161,51.360102
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hopeville Avenue"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 18:45;   15 Sept 2014 - 05 Oct 2014 : Mo-Su 08:00 - 17:55; 06 Oct 2014 - Apr 2015 : Mo - Su 08:00 - 18:10"
+    ,"postcode":"CT10 2TR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4185284,51.365836
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Station Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 18:05;   15 Sept 2014 - Mar 2015 : Mo -Su 08:00 - 18:35"
+    ,"postcode":"CT8 8QY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3410736,51.381574
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"College Walk"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Sa 08:00 - 20:00    Su 08:00 - 16:00;   15 Sept 2014  - Mar 2015 : Mo - Su 08:00 -  20:00"
+    ,"postcode":"CT9 1PR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3836466,51.388141
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Buenos Ayres"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 21:00;   15 Sept 2014 - Mar 2015 : Mo - Su 08:00 - 19:15"
+    ,"postcode":"CT9 1XJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3734157,51.386844
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Dumpton Gap"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 19:30;   15 Sept 2014  - Mar 2015 : Closed"
+    ,"postcode":"CT10 1TA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4388488,51.348608
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Joss Bay"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014:  Mo - Su 08:00 - 21:00;   15 Sept 2014 - Mar 2015 : Closed"
+    ,"postcode":"CT10 1ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4456737,51.379045
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Cavendish Street Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 18:00;  15 Sept 2014 - Mar 2015  : Mo - Su 08:00 - 18:25"
+    ,"postcode":"CT11 9AL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4184644,51.333545
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Clock Tower, Broadstairs"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 21:00;   15 Sept 2014 - Mar 2015 : Mo - Su 08:00 - 17:05"
+    ,"postcode":"CT10 1DU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4427475,51.356346
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Dane Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Concessionaire discretion"
+    ,"postcode":"CT9 2AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3931556,51.385698
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"East Pier Yard"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 21:00;   15 Sept 2014 - Mar 20:15 : Mo -Su 09:05 - 19:25"
+    ,"postcode":"CT11 9LP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4234524,51.33169
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"King George VI Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 15 Sept 2014 : Mo - Su 08:00 - 17:25;   15 Sept 2014 - 05 Oct 2014 : Mo - Su 9:30 -16:00;  06 Oct 2014 - Mar 2015 : Mo - Su 08:00 - 15:50 when Concessionaire in situ"
+    ,"postcode":"CT11 8DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4344069,51.341461
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Margate Cemetery"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"CT9 4LT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3759444,51.373746
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Minnis Bay Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 21:00;   15 Sept 2014 - Mar 2015 : Mo - Su 08:00 - 17:40"
+    ,"postcode":"CT7 9LT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.2810534,51.377649
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Oval Bandstand"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Open on request for events only"
+    ,"postcode":"CT9 2EZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3972977,51.391541
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ramsgate Cemetery"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 17:00;  15 Sept 2014  - 05 Oct 2014 : Mo - Su 08:00 - 16:30;  06 Oct 2014 - Mar 2015: Mo - Su 08:00 - 15:30"
+    ,"postcode":"CT11 7DZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.420532,51.342794
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Harold Road Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 16:00;  15 Sept 2014 - Mar 2015 : Mo - Su 08:00 - 15:55"
+    ,"postcode":"CT9 2HS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3990159,51.387956
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Botany Bay"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 18:45;  15 Sept 2014 - Mar 2015 : Closed"
+    ,"postcode":"CT10 1ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.43593,51.388273
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Screaming Alley"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 18:30;  15 Sept 2014  - 05 Oct 2014 : Mo - Su 08:00 - 18:55;  06 Oct 2014 - Mar 2015 : Mo - Su 08:00 - 16:50"
+    ,"postcode":"CT11 2HE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4092509,51.3282
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Harbour Street"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 21:00;  15 Sept 2014  - Mar 2015 : Mo - Su 08:00 - 17:30"
+    ,"postcode":"CT10 1EU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4449414,51.35916
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Westbrook Bathing"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 17:30;  15 Sept 2014  - Mar 2015 : Closed"
+    ,"postcode":"CT9 1ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3671303,51.386215
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"West Bay"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 20:20;  15 Sept 2014  - Mar 2015: Mo - Su 08:00 - 16:50"
+    ,"postcode":"CT8 8SA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3319929,51.382615
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Stone Bay"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 20:10;  15 Sept 2014  - Mar 2015 : Closed"
+    ,"postcode":"CT10 1DY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4450176,51.365149
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Alpha Road Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08.00  - 17.25;  15 Sept 2014 - Mar 2015 : Mo - Su 08:00 -  18:05"
+    ,"postcode":"CT7 9EG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3046489,51.376185
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Clock Tower, Margate"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08.00 - 21.00;   15 Sept 2014 - Mar 2015 : Closed"
+    ,"postcode":"CT9 1DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3786507,51.387457
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Croft's Place Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08.00 - 17.05;  15 Sept 2014 - 05 Oct 2014 : Mo - Su 08:00 - 17:40;  06 Oct 2014 - Mar 2015 : Mo - Su 08:00 - 17:55"
+    ,"postcode":"CT10 1LE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4395101,51.359347
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Centre"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Sa 08.00 - 19.00    Su 08.00 - 20.00;    15 Sept 2014 - Mar 2015 : Mo - Su 08:00 - 20:00"
+    ,"postcode":"CT9 1JG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3820012,51.386884
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Viking Bay Chalets"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 17:30;  15 Sept 2014 - Mar 2015 : Closed"
+    ,"postcode":"CT10 1QL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4425189,51.356938
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Harbour Arm, Margate"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 18:20;  15 Sept 2014 - Mar 2015: Mo - Su 08:00 - 15:25"
+    ,"postcode":"CT9 1AP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3786195,51.391128
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St Mildred's Bay"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 17:55;  15 Sept 2014 - Mar 2015 : Mo - Su 08:00 - 16:15"
+    ,"postcode":"CT8 8AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3450155,51.384771
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bathing Station"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr - 14 Sept 2014 : Mo - Su 08:00 - 20:00;  15 Sept 2014 - Mar 2015 : Closed"
+    ,"postcode":"CT11 8LX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -5.7313398,55.585448
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Johns Court Blaby"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:30-18:00"
+    ,"postcode":"LE8 4DJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1638624,52.575128
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Canterbury Cemetery"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 08:00-19:00; Nov-Mar: Mo-Su 08:00-17:00"
+    ,"postcode":"CT2 8JL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0640539,51.284419
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Canterbury Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 00:00-24:00"
+    ,"postcode":"CT1 2HL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0833552,51.27793
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wincheap Park and Ride"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 08:00-19:00; Nov-Mar: Mo-Su 08:00-17:00"
+    ,"postcode":"CT1 3TY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0615918,51.271126
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sturry Road Park and Ride"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 07:00-19:30"
+    ,"postcode":"CT1 1AD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1087332,51.293764
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"New Dover Road Park"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 07:00-19:30"
+    ,"postcode":"CT1 3EL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1016069,51.261689
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tower Way"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-18:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT1 2BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0753716,51.280785
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Toddlers Cove"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-18:00; Nov-Mar: Mo-Su 08:00-17:00"
+    ,"postcode":"CT2 8NL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0706416,51.278679
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Longport"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-18:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT1 1PG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0886832,51.277187
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Canterbury Coach Park"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 08:00-18:00; Nov-Mar: Mo-Su 08:00-17:00"
+    ,"postcode":"CT1 1BN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0858243,51.285879
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bandstand Inner"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT6 5JJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1242872,51.372745
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bandstand Outer"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT6 5JJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1244181,51.372769
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Georges"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 00:00-24:00"
+    ,"postcode":"CT6 8SS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1182129,51.371756
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hampton Pier"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT6 8EP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0994246,51.372093
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hampton Pleasure Grove"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Sa-Su 07:30-17:00"
+    ,"postcode":"CT6 8DY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0974766,51.368997
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Worthgate"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 07:30-18:00"
+    ,"postcode":"CT1 2QU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0759432,51.275175
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Faversham"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-19:00; Nov-Mar: Mo-Su 07:30-16:00"
+    ,"postcode":"CT5 4BW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.97463387,51.345973
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Beach Walk"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-16:00"
+    ,"postcode":"CT5 2BP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0328211,51.364978
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Harbour Street"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT5 2BJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0293301,51.363026
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Herne Bay Cemetery"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 08:00-19:00"
+    ,"postcode":"CT6 7HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1305685,51.356972
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Herne Village"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-19:00; Nov-Mar: Mo-Su 07:30-16:00"
+    ,"postcode":"CT6 7HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1328053,51.35228
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Horsebridge"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT5 1AP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0234032,51.360733
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kings Hall"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-16:00"
+    ,"postcode":"CT6 6BA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1365117,51.37267
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Priest and Sow"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-16:00"
+    ,"postcode":"CT5 2LP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0547539,51.365082
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Reculver"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-19:30; Nov-Mar: Mo-Su 07:30-16:00"
+    ,"postcode":"CT6 6TA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1964038,51.378561
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Skinners Alley"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 00:00-24:00"
+    ,"postcode":"CT5 1QR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0251587,51.357288
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Annes"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT5 2BQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.041873,51.364761
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Westcliff"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-20:00"
+    ,"postcode":"CT6 8EP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1070829,51.371863
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Beach"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-18:00; Nov-Mar: Mo-Su 07:30-16:00"
+    ,"postcode":"CT5 1ET"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0193513,51.357888
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whitstable Cemetery"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 08:00-19:00"
+    ,"postcode":"CT5 1ET"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0332642,51.352338
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"William Street"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 07:30-18:00"
+    ,"postcode":"CT6 1EW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1275481,51.37041
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pound Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 00:00-24:00"
+    ,"postcode":"CT1 2BZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0782733,51.282355
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"War Memorial Park"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-19:00; Nov-Mar: Mo-Su 07:30-17:00"
+    ,"postcode":"CT6 5RG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.1248263,51.369268
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Best Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: Mo-Su 07:30-19:00; Nov-Mar: Mo-Su 07:30-18:00"
+    ,"postcode":"CT1 2HL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.0833552,51.27793
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CHARLOTTE STREET ENTRANCE"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 Hours"
+    ,"postcode":"BA1 2NE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3654986,51.38353
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"ALICE PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"06:00-21:00"
+    ,"postcode":"BA1 7BL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3413351,51.397873
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"HENRIETTA PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Winter & Su 10:00-16:00 | Other times: 08:00-18:00"
+    ,"postcode":"BA2 6LU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3557821,51.385035
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"SHAFTESBURY ROAD"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 Hours"
+    ,"postcode":"BA2 3LH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3776866,51.376855
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"THE SHALLOWS"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-18:00 | Su 10:00-16:00"
+    ,"postcode":"BS31 3EU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4513968,51.403606
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"PARADE GARDENS"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Winter & Su 10:00-16:00 | Other times: 08:00-18:00"
+    ,"postcode":"BA2 4DF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3573523,51.381847
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"SYDNEY GARDENS"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-18:00 | Su 10:00-16:00"
+    ,"postcode":"BA2 6NF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3506618,51.386318
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"ROYAL VICTORIA PARK PLAY AREA"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Not Known"
+    ,"postcode":"BA1 2LZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3765838,51.38603
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"MEMORIAL PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"06:00-21:00"
+    ,"postcode":"BS31 1DG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4973009,51.415684
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"RIVERSIDE COACH PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"06:00-19:45"
+    ,"postcode":"BA1 1UE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3632958,51.379365
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"ODD DOWN PARK & RIDE"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"15 minutes before and after Park & Ride opening hours"
+    ,"postcode":"BA2 8PA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3850034,51.351619
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CHARLOTTE STREET CAR PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-18:00 | Su 10:00-16:00"
+    ,"postcode":"BA1 2NA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3688144,51.384868
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"ASHTON WAY CAR PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-18:00 | Su 10:00-16:00"
+    ,"postcode":"BS31 2UF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.499584,51.415378
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"SANDPITS PLAY AREA/TWO TUNNELS PATH"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"06:00-21:00"
+    ,"postcode":"BA2 2JD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3811791,51.371818
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"SEVEN DIALS"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 Hours"
+    ,"postcode":"BA1 2AN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3632581,51.381864
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"GULLOCK TYNING"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-18:00 | Su 10:00-16:00"
+    ,"postcode":"BA3 2UG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4787297,51.286946
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"ALEXANDRA PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-18:00 | Su 10:00-16:00"
+    ,"postcode":"BA2 4RQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3615994,51.373777
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"RED LION CAR PARK"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"To be confirmed"
+    ,"postcode":"BS39 7NW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5019283,51.307728
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Green Bottom Bowling Green Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS20 8"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7104613,53.870763
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"White House Caf??? Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS21 3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6923907,53.896108
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tarnfield Park Disabled Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS19 7UR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6772111,53.867478
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tarnfield Park Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS19 7"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6754545,53.866521
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Yeadon Cemetery Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS19 7UR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6752489,53.871464
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rodley Lane Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS13 1"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6631066,53.822949
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Horsforth Hall Park Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS18 5JY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6473297,53.83848
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"(Gents)\nHall Lane Public Conveniences"
+    ,"sex":"Male"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS18 5JY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6472092,53.838345
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bramley District Centre Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS13 2"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6271421,53.811833
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Old Lane\n Bramhope Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS16 9"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6244819,53.885193
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Holt Park Shopping Centre"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS16 7"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6067113,53.856123
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Morley Leisure Centre Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS27 9JP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6059496,53.746098
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Abbey Mills Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS5 3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6024785,53.816661
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Golden Acre Park Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS16 8BQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5944292,53.871667
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Armley Sports And Leisure Centre"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS12 3HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5923934,53.794714
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ash Road Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS6 3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5808386,53.820839
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Meanwood Recreation Ground Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS6 4"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5725529,53.831981
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Woodhouse MoorBowling Green Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS2 9"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.561941,53.809275
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Woodhouse Lane Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS2 9"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5614662,53.814028
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Middleton Golf Course Public Conveniences"
+    ,"sex":"Female"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS10 3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5584432,53.751901
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Millennium Square Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS1 3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5482813,53.801495
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Linden Avenue\n Allotments"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS11 6"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5470769,53.777978
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Technorth Centre"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS7 3NB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.534339,53.82517
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Yorkshire Playhouse"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS2 7UP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5344112,53.79809
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Reginald Centre Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS7 3EX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5317033,53.817673
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Marsh Street Rothwell  Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS26 0"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4778729,53.747982
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Templenewsam Golf Club\n Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS15 0LN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4726635,53.79103
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Temple Newsam Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS15 0AD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4605903,53.789089
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Shambles Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS22 6"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3862816,53.92792
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Boston Spa Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS23 6"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3465091,53.905097
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Aberford Bowling Green Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS25 3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3465508,53.829211
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lotherton Estate Public Conveniences"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"LS25 3EB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3185001,53.820076
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bridgewater Road"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:30-18:00; 07:00-08:30 \"opened sometime between 07:00 and 08:30\"; 18:00-19:30 \"closes sometime between 18:00 and 19:30\""
+    ,"postcode":"BS13 7DX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6183995,51.426806
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hartcliffe Customer Service Point"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo,Tu,Th 08:30-17:00"
+    ,"postcode":"BS13 0BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5989792,51.404598
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ashton Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:30-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6219875,51.441057
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hen and Chicken public house"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 09:00-24:00"
+    ,"postcode":"BS3 1JF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.610301,51.440785
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Windmill Hill City Farm"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Tu-Sa 09:00-17:00 \"closed on Public Holidays\""
+    ,"postcode":"BS3 4EA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.592811,51.442314
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hengrove Park Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00"
+    ,"postcode":"BS14 0HR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5858874,51.415113
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St George's Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:30-18:00; 07:00-08:30 \"opened sometime between 07:00 and 08:30\"; 18:00-19:30 \"closes sometime between 18:00 and 19:30\""
+    ,"postcode":"BS5 9AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5504899,51.459793
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Redcatch Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"07:30-17:30; 17:30-18:30 \"closes sometime between 17:30 and 18:30\""
+    ,"postcode":"BS4 2RA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5716454,51.434201
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Create Centre"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 09:00-17:00"
+    ,"postcode":"BS1 6XN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6224901,51.44733
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wapping Wharf"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jun-Aug 08:30-18:00, Jun-Aug 07:00-08:30 \"may be open\", Jun-Aug 18:00-19:30 \"may have closed\"; Oct-Mar 08:30-20:00, Oct-Mar 07:00-08:30 \"may be open\"; Apr,May,Sep 08:30-21:00, Apr,May,Sep 07:00-08:30 \"may be open\""
+    ,"postcode":"BS1 6UD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6023148,51.447265
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sea Walls"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Jun-Aug 08:30-18:00, Jun-Aug 07:00-08:30 \"may be open\", Jun-Aug 18:00-19:30 \"may have closed\"; Oct-Mar 08:30-20:00, Oct-Mar 07:00-08:30 \"may be open\"; Apr,May,Sep 08:30-21:00, Apr,May,Sep 07:00-08:30 \"may be open\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6355419,51.470144
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Brislington Park and Ride"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo,Tu,We,Fr 06:45-19:00; Th 06:45-20:20; Sa 07:40-19:00"
+    ,"postcode":"BS14 5LR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5373531,51.42833
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Central Library"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS1 5TD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6026427,51.451408
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Blaise Castle Estate"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":"BS10 7QS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6369669,51.504214
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Stoke Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"May-Aug 09:00-21:00; Oct-Mar 09:00-16:00; Apr,Sep 09:00-18:00"
+    ,"postcode":"BS9 1ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6176975,51.471786
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Galleries"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 08:15-18:00; Su 11:00-17:00"
+    ,"postcode":"BS1 3XD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5892242,51.456521
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Asda"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-We 08:30-21:00; Th,Fr 08:30-22:00; Sa 08:00-20:00; Su 10:00-16:00"
+    ,"postcode":"BS14 0ST"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5707601,51.413965
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Eastville"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS5 6XA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5566375,51.474115
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Greystoke Avenue"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"08:30-18:00; 07:00-08:30 \"opened sometime between 07:00 and 08:30\"; 18:00-19:30 \"closes sometime between 18:00 and 19:30\""
+    ,"postcode":"BS10 6AD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6031613,51.50273
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St James Barton"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 08:00-18:00"
+    ,"postcode":"BS1 3LT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5904984,51.459347
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Yeoman"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS14 9HX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.559237,51.413526
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Gloucester Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 09:00-18:00"
+    ,"postcode":"BS7 0ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5913799,51.475195
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"East Street"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 09:00-18:00"
+    ,"postcode":"BS3 4ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.601014,51.440258
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Sheild and Dagger"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS14 0LN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5718152,51.405175
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Cowmead Road Urinal"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.574632,51.46813
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Colston Avenue"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Th 08:00-19:00; Su 00:00-24:00"
+    ,"postcode":"BS1 4UB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5971466,51.454808
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Westbury Village"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:30-18:00; 07:00-08:30 \"opened sometime between 07:00 and 08:30\"; 18:00-19:30 \"closes sometime between 18:00 and 19:30\""
+    ,"postcode":"BS9 3BY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6187848,51.493612
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"J D Wetherspoon - The Robert Fitzharding"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS3 1BN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6008249,51.441194
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Suspension Bridge"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"May-Aug 09:00-21:00; Sep-Apr 09:00-18:00"
+    ,"postcode":"BS8 3ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6251998,51.456083
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Eastwood Farm"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":"BS4 4SP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5318063,51.442409
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Broadwalk Shopping Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"08:00-20:30"
+    ,"postcode":"BS4 2QU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5678605,51.435244
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Toby Carvery Henbury"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS10 7AD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6285185,51.505914
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Brandon Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6074543,51.453946
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Victoria Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"07:00-17:30; 17:30-18:00 \"closes sometime between 17:30 and 18:00\""
+    ,"postcode":"BS3 4LL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5880659,51.44143
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Shirehampton"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:30-18:00; 07:00-08:30 \"opened sometime between 07:00 and 08:30\"; 18:00-19:30 \"closes sometime between 18:00 and 19:30\""
+    ,"postcode":"BS11 9ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.674214,51.487839
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Miles arms Hotel"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS11 9LW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6940232,51.498648
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Prince Street - Closed"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 09:00-18:00; closed"
+    ,"postcode":"BS1 4QA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5964495,51.451017
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Horfield Common Urinal - Closed"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"24/7; closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5851223,51.489145
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"J D Wetherspoon - The Knights Templar"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS1 6DG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5818996,51.450965
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Burger King"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS5 6XZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5650452,51.474048
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Snuff Mills Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":"BS16 1DL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5419417,51.486655
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Underfall yard."
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS1 6XG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6166905,51.446228
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Oldbury Court Estate"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":"BS16 2JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5287427,51.489808
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"J D Wetherspoon - St Georges Hall"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS5 9HL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5552059,51.459375
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ashton Court Estate"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":"BS41 9JN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6373165,51.444589
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"McDonalds Bristol Hengrove"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"06:30-23:00"
+    ,"postcode":"BS14 0HR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5886121,51.416772
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Tesco Whitchurch Express"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"06:00-24:00"
+    ,"postcode":"BS14 9HX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5594562,51.413812
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sainsburys Clifton Down"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 09:00-22:00; Su 11:00-17:00"
+    ,"postcode":"BS8 2NN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.610496,51.464028
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sainsburys Winterstoke Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 07:00-22:00; Su 10:00-16:00"
+    ,"postcode":"BS3 2NS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6194681,51.433499
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Tesco Bristol East"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
+    ,"postcode":"BS5 6XU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5632257,51.473616
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sainsburys Castle Court"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 07:00-22:00; Su 11:00-17:00"
+    ,"postcode":"BS4 3BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5598275,51.443016
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Tesco Bristol Brislington"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
+    ,"postcode":"BS4 5AY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5546025,51.432161
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Tesco Lime Trees Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 08:30-22:00, Sa 08:00-22:00, Su 10:00-16:00"
+    ,"postcode":"BS6 7XW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5963269,51.485771
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"McDonalds Bristol Brislington"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"06:30-23:00"
+    ,"postcode":"BS4 5RT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5386966,51.430041
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ashton Court Estate Golf Course"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":"BS41 9JN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6433582,51.451632
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Tesco Henleaze Express"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 06:00-23:00; Su 07:00-23:00"
+    ,"postcode":"BS9 4NB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.609913,51.48615
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Waitrose"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Th 08:30-20:00; Fr 08:30-21:00; Sa 08:30-19:00; Su 10:00-16:00"
+    ,"postcode":"BS9 4HN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6122843,51.480401
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St Catherines Parade"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:30-18:00; 07:00-08:30 \"opened sometime between 07:00 and 08:30\"; 18:00-19:30 \"closes sometime between 18:00 and 19:30\""
+    ,"postcode":"BS3 4ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5955196,51.441491
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Fishponds Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Sep Mo-Sa 09:00-18:00; Apr-Sep Su 11:00-17:00"
+    ,"postcode":"BS16 3ZZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5285715,51.481231
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"@ Bristol Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:30-19:00"
+    ,"postcode":"BS1 5DB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6005667,51.450025
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Castle Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Sep 09:00-18:00; Oct-Mar Mo-Sa 09:00-16:00"
+    ,"postcode":"BS1 3XF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5885843,51.456003
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Blackboy Hill Urinal"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS8 1PB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6154103,51.470863
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Albion Marina"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Jun-Aug 08:30-18:00, Jun-Aug 07:00-08:30 \"may be open\", Jun-Aug 18:00-19:30 \"may have closed\"; Oct-Mar 08:30-20:00, Oct-Mar 07:00-08:30 \"may be open\"; Apr,May,Sep 08:30-21:00, Apr,May,Sep 07:00-08:30 \"may be open\""
+    ,"postcode":"BS1 6UT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6101824,51.448078
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Central Museum"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS8 1RL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6051538,51.456287
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Long Ashton Park and Ride"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo,Tu,We,Fr 07:00-19:00; Th 07:00-20:20; Sa 08:00-19:00"
+    ,"postcode":"BS3 2HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6358335,51.436235
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St Andrews Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"08:00-(Sunset-01:00)"
+    ,"postcode":"BS6 5AZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.587053,51.473508
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Canford Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Apr-Sep Mo-Su; Oct-Mar Sa-Su"
+    ,"postcode":"BS9 3NX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6264705,51.493157
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Trenchard Multistorey Car Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"06:30-23:59"
+    ,"postcode":"BS1 5AN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5995538,51.455093
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Westend Multistorey Car Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"06:30-21:30"
+    ,"postcode":"BS8 1EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6089203,51.455962
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"J D Wetherspoon - The Berkeley"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS8 1QE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6052044,51.455765
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"J D Wetherspoon - The Commercial Rooms"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS1 1HT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5945097,51.45457
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Morrisons Supermarket"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-We 08:00-21:00; Th-Fr 20:00-22:00; Sa 08:00-20:00; Su 10:00-16:00"
+    ,"postcode":"BS13 0BE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5996612,51.40508
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Avonmouth Medical Centre"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS11 9JJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6945148,51.498762
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Cabot Circus"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 10:00-20:00; Su 11:00-17:00"
+    ,"postcode":"BS1 3BX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5847571,51.458351
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"City Centre Customer Service Point, Phoenix Court"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo,Tu,Th  08:30-17:00; We 10:30-17:00; Fr 08:30-16:30"
+    ,"postcode":"BS1 3PH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5841263,51.457419
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bedminster Customer Service Point"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo,Tu,Th  08:30-17:00; We 10:30-17:00; Fr 08:30-16:30"
+    ,"postcode":"BS1 6TB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5913302,51.446862
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Brunel House"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Th 09:00-17:00; Fr 09:00-16:30"
+    ,"postcode":"BS1 5UY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6028636,51.452882
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hartcliffe Health Centre"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS13 0JP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.601319,51.407617
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Southville Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr  09:00-21:00; Sa  09:00-15:00; Su closed"
+    ,"postcode":"BS3 1QG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6055354,51.443804
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Lodgeside Surgery"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS15 1NH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5172916,51.468127
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Barton Hill Settlement"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Th 09:00-17:00; Fr 09:00-16:30"
+    ,"postcode":"BS5 0AX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5635877,51.45626
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sneyd Park Surgery"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS9 1NG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6303409,51.473004
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Helios Medical Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS9 1JN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6307342,51.475421
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Stapleton and Begbrook Social Club"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:30-24:00"
+    ,"postcode":"BS16 1HY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5365776,51.491005
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Fishponds Customer Service Point"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo,Tu,Th  08:30-17:00; We 10:30-17:00; Fr 08:30-16:30"
+    ,"postcode":"BS99 2AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5330652,51.477596
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Mill House"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 09:30-23:00; Sa 12:00-23:00; Su 12:00-22:30"
+    ,"postcode":"BS9 2DS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.642471,51.486831
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Shirehampton Health Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS11 9SB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6775869,51.488998
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Lawrence Weston Customer Service Point"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo,Tu,Th  08:30-17:00; We 10:30-17:00; Fr 08:30-16:30"
+    ,"postcode":"BS11 0QE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6589221,51.501072
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Southmead Customer Service Point"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BS10 6BQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5994517,51.503297
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Murray Road Bury Town Centre"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am-5pm Monday- Saturday"
+    ,"postcode":"BL9 0BJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2954335,53.590849
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Place Ramsbottom"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 hr"
+    ,"postcode":"BL0 9AC"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3182615,53.649169
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Hall (adj) Radcliffe"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am - 4pm Monday - Saturday"
+    ,"postcode":"M26 3ED"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3253705,53.558611
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Guineas"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 07:00-20:00"
+    ,"postcode":"CB8 8HT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.40598339,52.245698
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mildenhall Bus station"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 07:00-17:00; Sa 07:00-16:00"
+    ,"postcode":"IP28 7EZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.5122143,52.34295
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Council Office"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 08:45-17:00"
+    ,"postcode":"IP28 7EY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.51893399,52.346224
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bury St Edmunds bus station"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 08:00-18:00"
+    ,"postcode":"IP33 1TZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.71086458,52.247838
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ram Meadow toilets"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 07:00-20:00"
+    ,"postcode":"IP33 1XP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.71908061,52.247783
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Abbey Garden toilets"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 08:00-21:30"
+    ,"postcode":"IP33 1UZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.71633075,52.245221
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Haverhill House"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 08:30-17:00"
+    ,"postcode":"CB9 9EE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.43630759,52.0843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Apex"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 10:00-17:00; Sa 10:00-16:00"
+    ,"postcode":"IP33 3FD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.71047364,52.245751
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Suffolk House"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 08:45-17:00"
+    ,"postcode":"IP33 3YU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.6970054,52.251474
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jubilee Walk toilets"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 08:00-19:00; We-Th 08:00-20:00; Sa 08:00-1800; Su 9:00-15:00"
+    ,"postcode":"CB9 8DA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.44168358,52.081707
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Recreation Ground toilets"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 08:00-sunset; Su 08:00-15:00"
+    ,"postcode":"CB9 8HF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.43399832,52.0821
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Nowton Park"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-sunset"
+    ,"postcode":"IP29 5BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.72929816,52.22592
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Stow Country Park"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 10:00-17:00"
+    ,"postcode":"IP28 6HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.63800717,52.311547
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hardwick Heath"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 8:30-17:00"
+    ,"postcode":"IP33 2QZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.71373249,52.231216
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Accrington Town Centre"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Tu 08:30-16:45; We 08:30-13:30; Th-Sat 08:30-16:45;Sun - Closed"
+    ,"postcode":"BB5 1ER"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3635038,53.753797
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Hall"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Tu 08:30-17:00; We 08:30-13:30; Th-Sat 08:30-17:00;Sun - Closed"
+    ,"postcode":"BB5 1ER"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3642551,53.752986
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Cove Green Pavillion"
+    ,"sex":"None"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 19:00"
+    ,"postcode":"GU14 0EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.76564943,51.292923
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Priory Pavilion"
+    ,"sex":"None"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 19:00"
+    ,"postcode":"GU14 7HX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.74326807,51.296363
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"King George V Pavilion"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 19:00"
+    ,"postcode":"GU14 6QN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.74175097,51.285223
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"North Camp High Street"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 19:00"
+    ,"postcode":"GU14 6ES"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.74722021,51.276047
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Aldershot Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 19:00"
+    ,"postcode":"GU12 4BP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.74490198,51.235359
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Aldershot Bus Station"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 19:00"
+    ,"postcode":"GU11 1HN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.76089604,51.246778
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Aldershot High Street"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 19:00"
+    ,"postcode":"GU12 4JU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.75308619,51.243647
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Forum - Sittingbourne"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME10 3DL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.73459246,51.340673
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Central Aveune - Sittingbourne"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME10 4BX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.73559411,51.339409
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rose Street - Sheerness"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME12 1UA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.76157677,51.43927
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Central Car Park - Faversham"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME13 8PN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.89046574,51.315054
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Spinney - Leysdown"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME12 4QX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.92244456,51.397205
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Leysdown Beach Services - Leysdown"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Saturdays and Sundays and on Bank Holidays from (and including) Good Friday until the last Sunday in October; daily from July until the second Sunday in September.  Open from 09:00 to 18:00"
+    ,"postcode":"ME12 4QE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.92143694,51.399668
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"King George V Playing Fields - Sittingbourne"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME10 1QX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.72547895,51.329382
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Milton Regis - Milton Regis"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME10 2AN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.73263042,51.348966
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Queenborough Park - Queenborough"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME11 5AG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.74059039,51.41708
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Barton's Point - Minster on Sea"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME12 2BX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.78514139,51.437255
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The White House - Minster on Sea"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME12 2DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.79925837,51.43467
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Oare Gunpowder Works - Oare"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME13 7UD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.8716132,51.3248
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Halfway Cemetery - Halfway"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME12 3AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.77169788,51.423184
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Park Road - Faversham"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Monday to Saturday inclusive each weekend, including Bank Holidays.  Monday to Saturday from 07:00 to 19:00 and Sunday and Bank Holidays 09:00 to 18:00"
+    ,"postcode":"ME13 8ES"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.89545195,51.312871
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Tunsgate, Guildford"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"07:30-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.57214885,51.235465
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bedford Road Car Park, Bedford Road, Guildford"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.57663089,51.238298
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Allen House, York Road Car Park, York Road, Guildford"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.56979542,51.238835
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Middle Street, Shere"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.46485234,51.219737
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Farnham Road Car Park, Farnham Road, Guildford"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"07:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.58088481,51.235526
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Woodbridge Road, Guildford"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.57678605,51.243947
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Onslow Recreation Ground, Wilderness Road, Onslow Village"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.60052584,51.23356
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Burchatts Farm, Stoke Park, London Road, Guildford"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.55668965,51.247928
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The High Street, Ripley"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.49059046,51.301391
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sutherland Memorial Park, Clay Lane, Burpham, Guildford"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.5481215,51.260663
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Stoughton Cemetery, Stoughton Road, Guildford"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.58273029,51.253318
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Mount Cemetery, The Mount, Guildford"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.58257894,51.231671
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ward Street, Guildford"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.57215437,51.237138
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Shalford Park, Shalford Road, Guildford"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.57181225,51.226441
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Home Farm, Stoke Park, Nightingale Road, Guildford"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.56687623,51.242882
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Guildford College & Stoke Park Playground, Stoke Park, Stoke Road, Guildford"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.5705399,51.243934
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Babbacombe Beach"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 3LX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5091949,50.478874
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Babbacombe Downs"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 3LN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5126894,50.479287
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bank Lane"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ5 8DY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5147003,50.394891
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Beacon Quay"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 2BG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5246985,50.457843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Berry Head"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ5 9AL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.4921699,50.395623
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Breakwater Beach"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ5 9AG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5040169,50.399635
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Brixham Harbour"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ5 8AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5112601,50.39776
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Broadsands"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6HH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5519935,50.405075
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cockington"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ2 6XA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5594584,50.464397
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Corbyn Head"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ2 6RH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5413799,50.458306
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Factory Row"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ2 5QQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5324068,50.467931
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Festival Apollo"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6AG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5596144,50.435732
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fishcombe"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ5 8RB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5213892,50.401666
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Goodrington Central"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6LP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5600659,50.42505
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Goodrington North"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6BU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5596711,50.427601
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Goodrington South"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6NB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.559569,50.421495
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lymington Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 4BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5358181,50.474056
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Maidencombe"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 4TS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5140837,50.505711
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Meadfoot"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 2LQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5094937,50.457285
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Oddicombe"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 3LF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5153887,50.482157
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Old Town Hall"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ2 5NH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5273863,50.465182
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Paignton Central"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6ED"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5669063,50.434807
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Paignton Harbour"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5580557,50.432434
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Palace Avenue"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ3 3HF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5709491,50.435274
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Parkside"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ4 6AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5641916,50.435751
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Preston Bus Shelter"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ3 2EU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5598163,50.446585
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Preston North"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ3 2NU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.556221,50.445185
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Preston Redcliffe"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ3 2NJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5580117,50.441815
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sea Front Complex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ2 5HA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.532735,50.462827
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Shoalstone"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ5 9AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.4976489,50.401165
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Marychurch Car Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 3JX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5212133,50.48138
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Torre Abbey Meadows"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ2 5JE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.538234,50.462953
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Vaughan Parade"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ2 5EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5259812,50.460929
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Watcombe"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"TQ1 4SH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.516948,50.495636
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Meriden Avenue"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-17:30"
+    ,"postcode":"DY8 4QL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.163881,52.460574
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dudley Bus Station"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-17:30"
+    ,"postcode":"DY2 7AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0797444,52.511535
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Castle Street"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-17:30"
+    ,"postcode":"DY1 1PQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0813357,52.511507
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Townsend Place"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"DY3 1RP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1224862,52.542046
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Castleton Street"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-17:30"
+    ,"postcode":"DY2 0LU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0834614,52.490298
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Leasowes Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"B62 8DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.037407,52.454146
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Huntingtree Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"B63 4HY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0688005,52.448198
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Netherton Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"DY2 9QF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0801947,52.491856
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Silver Jubilee Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"WV14 9SZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0908788,52.537588
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mary Stevens Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"DY8 2AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1513776,52.449641
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wollescote Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"DY9 7JG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1176367,52.448978
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Priory Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"DY1 4EU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.086917,52.517373
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"CIVIC CENTRE III"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo - We 09:00 - 17:00; Th 10:00 - 17:00"
+    ,"postcode":"HD1 2YZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7861031,53.644333
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"THE WALSH BUILDING"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mon 09:00 - 17:00; Th 09:00 - 17:00; Fri 10:00 - 17:00"
+    ,"postcode":"WF12 8EE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6269793,53.691437
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DEWSBURY MOOR CREMATORIUM Main Building"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo - Fr 09:00 - 16:00"
+    ,"postcode":"WF13 3PL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6536902,53.689863
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HUDDERSFIELD CREMATORIUM Main Building"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"HD2 2JF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7836293,53.681422
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HUDDERSFIELD CREMATORIUM Top Gate"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo - Su 08:30 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7862911,53.678991
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DENBY DALE LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 19:00; Tu 09:00 - 12:00 , 14:00 - 17:00; We 14:00 - 19:00; Fr 14:00 - 18:00; Sa 09:00 - 12:00"
+    ,"postcode":"HD8 8RX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6541566,53.573637
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DEWSBURY LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:30 - 17:30; Tu 09:30 - 19:30; We 09:30 - 17:00; Th 09:00 - 20:00; Fr 09:30 - 17:00; Sa 09:00 - 16:00"
+    ,"postcode":"WF12 8EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6262957,53.68997
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GOLCAR LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 19:30; Tu 10:00 - 12:30; We 14:00 - 19:30; Th 10:00 - 12:30; Fr 10:00 - 12:30, 14:00 - 17:00; Sa 10:00 - 12:30"
+    ,"postcode":"HD7 4QD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8558683,53.639448
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HECKMONDWIKE LIBRARY"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:30 - 17:00; Tu 09:30 - 19:00; We 09:30 - 13:30; Th 09:30 - 17:00; Fr 09:30 - 19:00; Sa 09:00 - 16:00"
+    ,"postcode":"WF16 0LY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6727899,53.704918
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HOLMFIRTH LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:30 - 19:30; Tu 09:30 - 17:30; We 09:30 - 19:30; Th 09:30 - 17:30; Fr 09:30 - 17:30; Sa 09:00 - 16:00"
+    ,"postcode":"HD9 3JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7881691,53.570003
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HONLEY LIBRARY"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 19:00; Tu 13:30 - 17:30; We 10:00 - 12:30, 13:30 - 17:00; Th 13:30 - 17:30; Fr 10:00 - 12:30, 13:30 - 17:00; Sa 09:30 - 12:30"
+    ,"postcode":"HD9 6HF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7944129,53.602732
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HUDDERSFIELD CENTRAL LIBRARY & PIAZZA"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:30 - 18:30; Tu 09:30 - 20:00; We 09:30 - 17:00; Th - Fr 09:00 - 20:00; 09:00 - 16:00"
+    ,"postcode":"HD1 2SU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7815944,53.644513
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"KIRKBURTON LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 18:00; Tu 14:00 - 20:00; We 10:00 - 12:30 , 14:00 - 18:00; Th 14:00 - 20:00; Fr 10:00 - 12:30, 14:00 - 18:00; Sa 10:00 - 13:00"
+    ,"postcode":"HD8 0RT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.701631,53.610743
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"KIRKHEATON COMMUNITY CENTRE AND LIBRARY"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 19:00; Th 14:00 - 19:00; Fr 14:00- 17:00; Sa 10:30 - 12:30"
+    ,"postcode":"HD5 0LZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7290983,53.659731
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LEPTON LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 19:00; Tu 10:00 - 12:00,  14:00 - 17:00; Th 10:00 - 12:00, 14:00 - 17:00; Fr 14:00 - 19:00"
+    ,"postcode":"HD8 0HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7095804,53.632918
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LINDLEY LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 10:00 - 12:30, 13:30 - 19:30; Th 10:00 - 12:30, 13:30 - 19:30; Fr 10:00 - 12:30, 13:30 - 19:30; Sa 09:30 - 13:00"
+    ,"postcode":"HD3 3JP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8235327,53.660905
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"MARSDEN MECHANICS HALL & LIBRARY"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Tu 09:30 - 12:30, 13:30 - 17:00; We 13:30 - 19:00; Th 09:30 - 12:30, 13:30 - 17:00; Fr 09:30 - 12:30, 13:30 - 17:00; Sa 09:30 - 12:30, 13:30 - 16:00"
+    ,"postcode":"HD7 6BW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9266432,53.600962
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"RAVENSTHORPE LIC GREENWOOD CENTRE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 10:00 - 13:00; Tu 13:0 - 17:00; We 10:00 - 13:00; Th 13:00 - 19:00; Sa 10:00 - 16:00; Su 13:00 - 16:00"
+    ,"postcode":"WF13 3JR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6626856,53.67842
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"RAWTHORPE DALTON LIC"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 10:00 - 13:00, 14:00 - 19:00; We 10:00 - 13:00, 14:00 - 19:00; Th 14:00 - 17:00; Fr 14:00 - 17:00; Sa 13:00 - 16:00"
+    ,"postcode":"HD5 9QR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7550677,53.651419
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"SHEPLEY LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 17:00; Th 09:30 - 13:00, 14:00 - 19:00; Fr 14:00 - 17:00; Sa 09:30 - 12:00"
+    ,"postcode":"HD8 8AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7104141,53.583988
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"SLAITHWAITE LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 10:00 - 12:30, 14:00 - 17:00; We 10:00 - 12:30, 14:00 - 17:00; Th 14:00 - 19:30; Fr 10:00 - 12:30, 14:00 - 17:00; Sa 10:00 - 12:30"
+    ,"postcode":"HD7 5HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8805724,53.621454
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"THORNHILL LEES LIC"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 13:00 - 17:00; Tu 10:00 - 12:00, 13:00 - 17:00; We 13:00 - 19:00; Th 13:00 - 17:00; Sa 10:30 - 16:00"
+    ,"postcode":"WF12 9DU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6362248,53.672932
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"ALMONDBURY LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 14:00 - 17:00; Tu 10:00 - 12:00, 14:00 - 18:00; Th 14:00 - 19:00; Fr 10:00 - 12:00, 14:00 - 18:00; Sa 10:00 - 12:30"
+    ,"postcode":"HD5 8XB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7484092,53.631343
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BATLEY LIBRARY & ART GALLERY"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:30 - 19:00; Tu 09:30 - 17:00; We 09:30 - 19:00; Th 09:30 - 17:00; Fr 09:30 - 17:00; Sa 09:00 - 16:00"
+    ,"postcode":"WF17 5DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.634312,53.713795
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BIRKBY LIC"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:00 - 17:00; We 13:00 - 17:00; Fr 13:00 - 20:00; Sa 13:00 - 16:00; Su 13:00 - 16:00"
+    ,"postcode":"HD1 6HA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6610926,53.731679
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"CLECKHEATON LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:00 - 20:00; Tu 09:00 - 17:30; We 09:00 - 13:00; Th 09:00 - 17:30; Fr 09:00 - 17:00; Sa 09:00 - 16:00"
+    ,"postcode":"BD19 3DX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7222315,53.72603
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"SKELMANTHORPE COUNCIL OFFICES & LIBRARY"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:30 - 19:00; We 09:30 - 19:00; Th 09:30 - 17:00; Fr 09:30 - 17:00; Sa 09:30 - 12:30"
+    ,"postcode":"HD9 9DA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6514736,53.591408
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DEIGHTON CHESTNUT CENTRE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo 08:00 - 18:00; Tu - Th 08:00 - 20:00; Fr - Sa 08:00 - 18:00"
+    ,"postcode":"HD2 1HJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7684411,53.668137
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BATLEY TOWN HALL"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo -Fr 09:00 - 17:00"
+    ,"postcode":"WF17 5DA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6331432,53.714034
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"CLECKHEATON TOWN HALL"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo -Fr 09:00 - 17:00"
+    ,"postcode":"BD19 3RH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7116311,53.724756
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DEWSBURY TOWN HALL"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo -Fr 09:00 - 17:00"
+    ,"postcode":"WF12 8DG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6267665,53.691526
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HUDDERSFIELD TOWN HALL"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo -Fr 09:00 - 17:00"
+    ,"postcode":"HD1 2TA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7825341,53.644147
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BAGSHAW MUSEUM"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mar - Oct: Tu - Fr 11:00 - 17:00; Sa - Su 12:00 - 17:00"
+    ,"postcode":"WF17 0AS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6453452,53.727876
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DEWSBURY MUSEUM"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mar - Oct: Tu - Fr 11:00 - 17:00; Sa - Su 12:00 - 17:00"
+    ,"postcode":"WF13 2SG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6478309,53.687923
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"RED HOUSE MUSEUM"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":"Mar - Oct: Tu - Fr 11:00 - 17:00; Sa - Su 12:00 - 17:00"
+    ,"postcode":"BD19 4JP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6864169,53.732305
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"TOLSON MEMORIAL MUSEUM"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mar - Oct: Tu - Fr 11:00 - 17:00; Sa - Su 12:00 - 17:00"
+    ,"postcode":"HD5 8DJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7553786,53.644741
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"STABLES MUSEUM HQ"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mar - Oct: Tu - Fr 11:00 - 17:00; Sa - Su 12:00 - 17:01"
+    ,"postcode":"HD5 8DJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7559404,53.644374
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"OAKWELL HALL Visitor Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WF17 9LG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6718505,53.740023
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"OAKWELL Countryside Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WF17 9LG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6734184,53.7392
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GREENHEAD PARK"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo - Su 08:00 - 15:00"
+    ,"postcode":"HD1 4HS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7966849,53.64889
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"CROWNEST PARK Dewsbury"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr - Dec: Tu 09:00 - 17:00; Fr 09:00 - 17:00, Sa 10:00 - 16:00"
+    ,"postcode":"WF13 2SG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6486009,53.690019
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"WILTON PARK Batley"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Sa - Su 09:00 - 16:00"
+    ,"postcode":"WF17 0AS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6480735,53.726042
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BEAUMONT PARK Huddersfield"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo - Fr 08:00 - 16:0"
+    ,"postcode":"HD4 7AY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8085634,53.624848
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"RAVENSKNOWLE PARK Huddersfield"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jun - Aug: Mo -Su 08:00 - 16:30"
+    ,"postcode":"HD5 8DJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7552895,53.644454
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BIRKBY FARTOWN COMMUNITY CENTRE"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 09:00 - 17:00; We 13:00 - 17:00; Fr 13:00 - 20:00; Sa 13:00 - 16:00; Su 13:00 - 16:00"
+    ,"postcode":"HD1 6HA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7843486,53.659124
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GREENWOOD CENTRE"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo 10:00 - 13:00; Tu 13:00 - 17:00; We 10:00 - 13:00; Th 13:00 - 19:00; Sa 10:00 - 16:00; Su 13:00 - 16:00"
+    ,"postcode":"WF13 3JR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6626856,53.67842
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LAWRENCE BATLEY THEATRE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"HD1 2SP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7799423,53.645148
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Beamont Way"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"6.00am - 6.00pm"
+    ,"postcode":"HP15 7BE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.71384659,51.651866
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dovecot Multi Storey Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"6.00am - 10.30pm"
+    ,"postcode":"HP11 2DN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.75394331,51.631887
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Easton Street Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 Hours"
+    ,"postcode":"HP11 1LT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.74680901,51.628619
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Finings Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"7.30am - 6.30pm"
+    ,"postcode":"HP14 3ER"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.83561995,51.619526
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Horns Lane"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"7.15am - 8.00pm"
+    ,"postcode":"HP27 0AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.82910684,51.723242
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mill End"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8.00am - 9.00pm"
+    ,"postcode":"RG9 6TL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.86852581,51.562534
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Park Parade"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"6.00am - 6.00pm"
+    ,"postcode":"HP15 7YD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.70997389,51.658442
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pauls Row"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"6.00am - 10.00pm"
+    ,"postcode":"HP11 2HF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.75141005,51.628902
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pound Lane (Higginson Park)"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"6.00am - 10.00pm"
+    ,"postcode":"SL7 2AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.77488256,51.568985
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Riley Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"6.00am - 10.00pm"
+    ,"postcode":"SL7 3HL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.77787351,51.572595
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"School Lane"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"7.00am - 9.15pm"
+    ,"postcode":"HP14 3AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.80391039,51.644932
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Straight Bit"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8.00am - 9.00pm"
+    ,"postcode":"HP10 9LT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.70745877,51.599958
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wakeman Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"7.45am -8.30pm"
+    ,"postcode":"SL8 5SX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.71091666,51.579306
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gossmore Lane"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am- 21.30 or sunset"
+    ,"postcode":"SL7 1QF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.76403448,51.568368
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Rye Toilets, Holywell Mead"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8.30am - 21.30 or sunset"
+    ,"postcode":"HP11 1QX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.73839791,51.623503
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kingsmead Recreation Ground"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8.30am - 21.30 or sunset"
+    ,"postcode":"HP11 1SL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.71470907,51.615738
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Wycombe Cemetery"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8.30am - 21.30 or sunset"
+    ,"postcode":"HP13 6SX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.74762121,51.635327
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Eccles shopping precinct"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"24 hours"
+    ,"postcode":"M30 0EA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3364644,53.484228
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ballards Lane, Finchley Central, London"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"N3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.19309429,51.601539
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bell Lane, Hendon, London"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"NW4"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.21986222,51.586491
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Burnt Oak Library"
+    ,"sex":"female and male"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo,Tu,We,Fr,Sa 09:00-17:00; Th 09:00-20:00; Su off"
+    ,"postcode":"HA08 OUB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.26347904,51.604436
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cat Hill, East Barnet, Hertfordshire"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"EN4"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.16310052,51.643086
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chipping Barnet Library"
+    ,"sex":"female and male"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo 10:00-20:00; Tu,Th,Sa 09:30-17:00; We,Fr 09:30-20:00; Su 14:00-17:00"
+    ,"postcode":"EN5 4QT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.2040653,51.655769
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Church End Library"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo 09:30-20:00; Tu,Th-Sa 09:30-17:00; We 10:00-20:00; Su off"
+    ,"postcode":"N3 1TR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.19744154,51.60006
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"East Barnet Library"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su off"
+    ,"postcode":"EN4 8SG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.16135095,51.644533
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"East Finchley Library"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo,Th,Sa 09:30-17:00; We 09:30-20:00; Fr 10:00-17:00; Tu,Su off"
+    ,"postcode":"N2 9BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.167426,51.594937
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Edgware Library"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo,We,Fr,Sa 09:30-17:00; Tu 09:30-20:00; Th 10:00-20:00; Su 14:00-17:00"
+    ,"postcode":"HA8 8NN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.27491662,51.616232
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Friary Park, Friary Road, Friern Barnet, London"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"N12"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.16232096,51.619109
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Friern Barnet Road, Friern Barnet, London,"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"N11"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.22423391,51.582843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hendon Library"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo,We 09:30-20:00; Tu,Fr-Sa 09:30-17:00; Th 10:00-20:00; Su 14:00-17:00"
+    ,"postcode":"NW4 4BQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.17691222,51.584105
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hendon Park, Queens Road, West Hendon"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"NW4"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.22423391,51.582843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Road, Totteridge, London,"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"N20"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.15274763,51.63466
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lyttelton Playing Fields, Kingsley Way, Hampstead Garden Suburb, London"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"N2"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.17691222,51.584105
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mill Hill Library"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours= Tu 09:30-20:00;  Mo,Fr-Sa 09:30-17:00; Th 10:00-20:00; We,Su off"
+    ,"postcode":"NW7 2HX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.18479213,51.605503
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mill Hill Park, Daws Lane, Mill Hill, London"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"NW7"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.16232096,51.619109
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"North Finchley Library"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours= Tu,Fr 09:30-20:00;  Mo,Sa 09:30-17:00; Th 10:00-17:00; We,Su off"
+    ,"postcode":"N12 9HP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.22423391,51.582843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Oakhill Park, Parkside Gardens, East Barnet, London"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"EN4"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.15274763,51.63466
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Osidge Library"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours= Tu 09:30-20:00;  Mo,Fr 09:30-17:00; We 10:00-17:00; Th,Su off; Sa 09:30-13:00, 14:00-15:00"
+    ,"postcode":"N11 1EY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.22423391,51.582843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Princes Park, Oakfield Road, Golders Green, London"
+    ,"sex":""
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"NW11"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.20586972,51.581485
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"South Friern Library"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo,Tu,Th,Sa 09:30-13:00, 14:00-17:00; We 10:00-13:00, 14:00-20:00; Fr,Su off"
+    ,"postcode":"N10 1HD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.18479213,51.605503
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Stanhope Road, London,"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"N12"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.17691222,51.584105
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Victoria Park, Ballards Lane, Finchley Central, London"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"N3"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.18479213,51.605503
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Watling Avenue, Burnt Oak, Edgeware, Middlesex"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"HA8"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.22423391,51.582843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cherry Tree Woods"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=08:00-(sunset)"
+    ,"postcode":"NW11"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.16193164,51.586551
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Arbury Court"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12887125,52.224757
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Barnwell Road"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.16240085,52.211784
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cherry Hinton Hall"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.16477215,52.186491
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cherry Hinton High Street"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.17312021,52.18578
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chesterton recreation ground"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.13864614,52.216101
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chesterton Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12290503,52.213562
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coleridge recreation ground"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: 08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.14636565,52.192816
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Drummer Street"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12465329,52.205105
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gonville Place"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12808624,52.200071
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jesus Green"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12106161,52.212354
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"King's Hedges recreation ground"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct: 08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12473237,52.230991
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lammas Land"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.11491283,52.195695
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lion Yard"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12050657,52.204389
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mill Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.13871497,52.199555
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Nightingale recreation ground"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.15042838,52.17786
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Park Street car park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.11939815,52.20939
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Quayside"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.11721207,52.209897
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Romsey recreation ground"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.15007484,52.199942
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Silver Street"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.11503141,52.201582
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Victoria Avenue"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.12745064,52.208822
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Leonard's Place (Exhibition Square)"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":"YO1 2EW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0851722,53.962541
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tanner Row"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":"YO1 6JB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0878861,53.958311
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Sampsons Square"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":"YO1 8RR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0821288,53.959534
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Haxby, town centre"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":"YO32 2LU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0761396,54.016032
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coppergate Shopping Centre"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":"YO1 6NY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0795236,53.956719
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Nunnery Lane"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":"YO23 1AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0904177,53.955436
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St George's Field"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0797496,53.954069
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Union Terrace"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"8am to 6pm"
+    ,"postcode":"YO31 7EL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0834047,53.965988
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Changing Space Walmgate"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"8am to 5pm"
+    ,"postcode":"YO10 4UP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0723472,53.954588
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Explore Acomb Library Learning Centre"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"8am to 8pm"
+    ,"postcode":"YO24 3BZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1292989,53.953719
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Silver Street"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"7am Monday to Saturday and closes 7pm Monday to Sunday"
+    ,"postcode":"YO1 8RY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0813073,53.959465
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"York Explore Library"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Open during library opening hours"
+    ,"postcode":"YO1 7DS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0862037,53.961372
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Beachy Head Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN20 7YA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.25280491,50.741508
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"The Goffs (Gildgredge Park)"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN20 8AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.27079928,50.769481
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Longland Road (Old Town Recreation Ground)"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN20 8HZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.25451152,50.772604
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Albert Parade"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN21 1SD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.25611103,50.777546
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Hollywell Drive, King Edwards Parade (Lower Holywell)"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN20 7XB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.27202161,50.753142
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"King Edwards Parade (Wish Tower)"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN21 4BY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.28585797,50.761263
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Grand Parade (Bandstand)"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Mo-Su 08:00-22:00"
+    ,"postcode":"BN21 3EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.28890644,50.764163
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"King Edwards  Parade (Helen Gardens)"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN20 7XL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.268656,50.752443
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Grand Parade (Pier) - female"
+    ,"sex":"Female"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"BN21 3EL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.29277345,50.767261
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Grand Parade (Pier) - male"
+    ,"sex":"Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.20
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"BN21 3EL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.29235158,50.767045
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Junction Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN21 3QZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.2850983,50.770992
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Cornfield Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN21 4QD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.28373308,50.768005
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Prince William Parade"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN23 6EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.324883,50.784155
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Hampden Park Drive"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN22 9QR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26894336,50.79238
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Brassey Parade"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN22 9QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.27887469,50.797016
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Whitley Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN22 8NJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.29676525,50.77695
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Churchdale Road (Archery)"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN22 8PS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.30118585,50.781468
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Royal Parade (Redoubt)"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN22 7AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.30034292,50.773543
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Royal Parade (Fishermans Green)"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN22 7AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.30585348,50.777437
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"PUBLIC TOILETS"
+    ,"name":"Royal Parade (Princes Park)"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":"BN22 7LU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.30869433,50.780393
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Lay-by Leverton"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE22 0AZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.087131093,53.011433
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Lincoln Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"PE21 8RU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.02831627,52.977235
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Cattle Mark Car Park"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"PE21 6SH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.019482232,52.980846
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Central Park"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"PE21 6RL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.022258509,52.980398
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Chadderton Shopping Precinct"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-12:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.140839,53.54556
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Royton Shopping Precinct"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-15:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1243443,53.566135
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Greenfield Library"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Tu 14:00-17:00; We-Th 14:00-19:00; Fr-Sa 09:30-13:00"
+    ,"postcode":"OL3 7EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0061325,53.535603
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lees Library"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09:00-19:00; Fr 9:00-17:00; Sa 09.30-13.00"
+    ,"postcode":"OL4 5DA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0717825,53.537442
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Limehurst Library"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Tu 14:00- 17:00; We-Th 14:00-19:00; Fr-Sa 09:30-13.00"
+    ,"postcode":"OL8 3HH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1267887,53.515222
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Northmoor Library"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Tu 14.00-17:00; We-Th 14:00-19:00; Fr-Sa 09:30-13:00"
+    ,"postcode":"OL9 6DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1236385,53.546784
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Oldham Library  & Lifelong Learning Centre"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09.00-20:00; Fr-Sa 09.00-17:00"
+    ,"postcode":"OL1 1AL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.109148,53.539994
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Royton Library"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09.00-19.00; Fr 09.00-17:00; Sa 09.30-13:00"
+    ,"postcode":"OL2 6QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.122322,53.566469
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Royton, Crompton, Shaw and District Town Hall"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 08:40-17:00; Sa-Su closed"
+    ,"postcode":"OL2 6QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1221857,53.566308
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chadderton Library  & Wellbeing Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 09:00-17:00"
+    ,"postcode":"OL9 0JW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1430145,53.546241
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crompton Library"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09:00-19:00; Fr 09.00-17:00, Sa 09.00-13:00"
+    ,"postcode":"OL2 8QY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0957251,53.576255
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Delph Library"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 14:00-16:30; Tu 14:00-17:00; We 14:00-17:30, Th 14:00-19:00; Fr-Sa 09:30-13:00"
+    ,"postcode":"OL3 5JG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0229875,53.566701
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Failsworth Town Hall and Library"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09.00-19:00; Fr 09.00a-17:00; Sa 09.00-13:00"
+    ,"postcode":"M35 0FJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1584695,53.510277
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fitton Hill Library and Community Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Tu 14:00-17:00; We-Th 14:00-19:00; Fr 09:30-13:00; Sa 09:30-13:00"
+    ,"postcode":"OL8 2QD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1015746,53.521736
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crompton Pool"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 07:00-21:00; Tu 09.00-21:00; We 07.00-21:00; Th 09.00-21:00; Fr 07:00-20:00; Sat 08.30-16:00; Su 8.30-14:00"
+    ,"postcode":"OL2 8NW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0949243,53.576076
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Oldham Sports Centre"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 7:00-21:00; Sa 08:00-17:00; Su 08.00-17:00"
+    ,"postcode":"OL1 3HA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1119792,53.543586
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Civic Centre Bus Stations"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-16:00"
+    ,"postcode":"OL1 1NY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1164889,53.54271
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tommyfield Market"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-16:00"
+    ,"postcode":"OL1 3BG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1147254,53.543458
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Alexandra Park"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 09:00-17:00"
+    ,"postcode":"OL8 2BH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1090148,53.535122
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Uppermill Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 08:00-16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0064817,53.548906
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dovestone Reservoir"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Open 24 hours"
+    ,"postcode":"OL3 7NE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9815882,53.527558
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chadderton Hall Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 07:30-16:00; Fr 07:30-12.00; Sa-Su 09:00-14:00"
+    ,"postcode":"OL9 0QP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1585611,53.554922
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coalshaw Green Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 07:30-16:00; Fr 07:30-12.00; Sa-Su 09:00-14:00"
+    ,"postcode":"OL9 8JP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1458015,53.52729
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Copster Park"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fri 07:30-16.00; Sa-Su 09:00-17.00"
+    ,"postcode":"OL8 3AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1178998,53.523743
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Daisy Nook Country Park"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-16:00; Sa-Su 09.00-17.00"
+    ,"postcode":"M35 9WJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1210035,53.501359
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dunwood Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 08:00-17:00"
+    ,"postcode":"OL2 7RU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0912933,53.58708
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Foxdenton Park"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Currently out of use awaiting repairs"
+    ,"postcode":"OL9 9QS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1618629,53.538109
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Crompton Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 8:30-17:00"
+    ,"postcode":"OL2 7NP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1134176,53.584787
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Higher Memorial Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 08:00-16:00"
+    ,"postcode":"M35 9DL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -3.5078942,53.50236
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lower Memorial Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 08:00-16:00"
+    ,"postcode":"OL9 0DY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1717885,53.511373
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Royton Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-16:00"
+    ,"postcode":"OL2 6QL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1227209,53.568626
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Stoneleigh Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fri 07:30-16:00; Sa-Su 08:30-17:00"
+    ,"postcode":"OL1 4LP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.094963,53.552967
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tandle Hill Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 8:30-17:00"
+    ,"postcode":"OL2 5UX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1432025,53.575075
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hollinwood Cemetery"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su security open and close"
+    ,"postcode":"OL8 3LU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1331753,53.517624
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crompton Cemetery Grounds"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 07:30-16:00; Fr 07:30-12.00"
+    ,"postcode":"OL2 7SD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1009483,53.581653
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hollinwood Crematorium"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 10:00-15:30 during service times"
+    ,"postcode":"OL8 3LU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1331995,53.515728
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Shaw lifelong learning"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 08:00-16:00"
+    ,"postcode":"OL2 8TB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0953005,53.575482
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crompton Cemetery"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 08:00-15:30; Fri 08:00-12:00"
+    ,"postcode":"OL2 7SD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1019442,53.581274
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bullcote park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:00; Sa-Su 08:00-17:00"
+    ,"postcode":"OL2 4SP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1003194,53.564872
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Brownhill Countryside Centre"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-19:00"
+    ,"postcode":"OL3 5PB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0083541,53.553858
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Park Rise Great Ayton North Yorkshire TS9 6ND"
+    ,"sex":""
+    ,"babychange":"NO"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1343498,54.48879
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Market Place Easingwold North Yorkshire YO61 3AB"
+    ,"sex":""
+    ,"babychange":"YES"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1924498,54.121506
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Emerson Close Swainby North Yorkshire DL6 3EL"
+    ,"sex":""
+    ,"babychange":"YES"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2674026,54.412703
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Millgate Thirsk North Yorkshire YO7 1AA"
+    ,"sex":""
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3423872,54.233837
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences High Street Stokesley North Yorkshire TS9 5AX"
+    ,"sex":""
+    ,"babychange":"YES"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"TS9 5AX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1929854,54.469693
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences South End Osmotherley North Yorkshire DL6 3BN"
+    ,"sex":""
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"DL6 3BN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.29946,54.367921
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Bridge Street Bedale North Yorkshire DL8 1UP"
+    ,"sex":""
+    ,"babychange":"YES"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-17:00"
+    ,"postcode":"DL8 1UP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5919231,54.289187
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BEACH GREEN PUBLIC CONVENIENCES BRIGHTON ROAD LANCING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.32516738,50.820357
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES MONKS RECREATION GROUND CRABTREE LANE LANCING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 15:00\nW = 09:00 - 15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.32264815,50.830043
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES SHOPSDAM ROAD LANCING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.31315802,50.821497
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES YEW TREE CLOSE LANCING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.32287176,50.824992
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES BEACH GREEN SHOREHAM-BY-SEA"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.27909112,50.827475
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES ADUR RECREATION GROUND BRIGHTON ROAD SHOREHAM-BY-SEA"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 21:00\nW = 08:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.28250086,50.83168
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES FORTHAVEN SHOREHAM-BY-SEA"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.25075435,50.82771
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES MIDDLE STREET SHOREHAM-BY-SEA"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.27583761,50.832535
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES CEMETERY MILL LANE SHOREHAM-BY-SEA"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.27668958,50.838321
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES SOUTH PAVILION BUCKINGHAM PARK UPPER SHOREHAM ROAD SHOREHAM-BY-SEA"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.26699413,50.840102
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCE SOUTHWICK STREET SOUTHWICK"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 21:00\nW = 08:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.23476733,50.834817
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"WEST BEACH PUBLIC CONVENIENCES WEST BEACH ROAD LANCING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.29259062,50.825254
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BEACH TOILETS BASIN ROAD SOUTH SOUTHWICK"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00 \nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.23535738,50.828962
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCE NORTH PAVILION BUCKINGHAM PARK UPPER SHOREHAM ROAD SHOREHAM-BY-SEA"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.26852891,50.841231
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES CIVIC CENTRE HAM ROAD SHOREHAM-BY-SEA"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"09.00 - 17.00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.26774757,50.83318
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sevenoaks Town Centre Bus Station Buckhurst Lane Sevenoaks"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mon-Sun 06:30 to 18:30"
+    ,"postcode":"TN13 1LX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.19328349,51.271152
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Rangers Lodge St Andrews Wood Shoreham"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mon-Sun 07:00 to 19:00 BST. Mon-Sun 07:00 to 17:00 GMT"
+    ,"postcode":"TN14 7BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.15500569,51.333655
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GENTS PUBLIC CONVENIENCES OPPOSITE DOME THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36814253,50.809761
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DISABLED PUBLIC CONVENIENCES OPPOSITE DOME THE PROMENADE WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36801391,50.809786
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LADIES PUBLIC CONVENIENCES OPPOSITE DOME THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36801391,50.809786
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES LIDO AMUSEMENT COMPLEX THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37309574,50.808957
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED LIDO AMUSEMENT COMPLEX THE PROMENADE WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37312567,50.808913
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS LIDO AMUSEMENT COMPLEX THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37242677,50.809011
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GENTS PUBLIC CONVENIENCES SOUTH OF HEENE ROAD THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"no"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = CLOSED"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.38563785,50.807459
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LADIES PUBLIC CONVENIENCES SOUTH OF HEENE ROAD THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"no"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = CLOSED"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.3856949,50.807451
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES WORTHING PIER THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37003087,50.809337
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS WORTHING PIER THE PROMENADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36934582,50.809445
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED WORTHING PIER THE PROMENADE WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36934551,50.809454
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LADIES PUBLIC CONVENIENCES SOUTH OF SEA LANE MARINE CRESCENT WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.42265568,50.805294
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GENTS PUBLIC CONVENIENCES SOUTH OF SEA LANE MARINE CRESCENT WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21: 00\nW = 09:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.42258414,50.805311
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DISABLED PUBLIC CONVENIENCES SOUTH OF SEA LANE MARINE CRESCENT WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.42251291,50.805319
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LADIES PUBLIC CONVENIENCES IN PLANTATION SOUTH OF ALDSWORTH AVENUE MARINE DRIVE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 19:00\nW = closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.43118354,50.804078
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GENTS PUBLIC CONVENIENCES IN PLANTATION SOUTH OF ALDSWORTH AVENUE MARINE DRIVE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 19:00\nW = closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.43125446,50.804079
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS THE NEW PAVILION BEACH HOUSE PARK LYNDHURST ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 18:00\nW = 08:00 - DUSK"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36430672,50.814329
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES THE NEW PAVILION BEACH HOUSE PARK LYNDHURST ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW =09.00 - DUSK"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36430672,50.814329
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS CENTRAL PAVILION BEACH HOUSE PARK LYNDHURST ROAD WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW =CLOSED"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36348065,50.814408
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS RECREATION GROUND BROADWATER GREEN ARDSHEAL ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37834419,50.829544
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES RECREATION GROUND BROADWATER GREEN ARDSHEAL ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37828617,50.829579
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED BROOKLANDS PLEASURE PARK WESTERN ROAD WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.33741145,50.820586
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES BROOKLANDS PLEASURE PARK WESTERN ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.33735501,50.820576
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS BUCKINGHAM MULTI STOREY CAR PARK BUCKINGHAM ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 18:00\nW = 08:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37485161,50.810304
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES BUCKINGHAM MULTI STOREY CAR PARK BUCKINGHAM ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 8:00 - 18:00\nW = 08:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37487812,50.810358
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED BUCKINGHAM MULTI STOREY CAR PARK BUCKINGHAM ROAD WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 18:00\nW = 08:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37483618,50.81034
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS SPORTS PAVILION CHURCH ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39592065,50.824247
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES SPORTS PAVILION CHURCH ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39593115,50.824355
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS DURRINGTON RECREATION GROUND LITTLEHAMPTON ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39625546,50.830637
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES DURRINGTON RECREATION GROUND LITTLEHAMPTON ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39641005,50.830684
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS FIELD PLACE THE BOULEVARD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40872174,50.820241
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES FIELD PLACE THE BOULEVARD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40872174,50.820241
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED FIELD PLACE THE BOULEVARD WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40872174,50.820241
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"UNISEX PUBLIC CONVENIENCES ADJACENT 144 FINDON ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39613781,50.846913
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DISABLED PUBLIC CONVENIENCES ADJACENT 144 FINDON ROAD WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39609645,50.846877
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GENTS PUBLIC CONVENIENCES ADJACENT 112 GEORGE V AVENUE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 18:00\nW = 09:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40374102,50.813922
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LADIES PUBLIC CONVENIENCES ADJACENT 112 GEORGE V AVENUE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 18:00\nW = 09:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40374102,50.813922
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DISABLED PUBLIC CONVENIENCES ADJACENT 112 GEORGE V AVENUE WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 18:00\nW = 09:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40374102,50.813922
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS MULTI STOREY CAR PARK HIGH STREET WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 18:00\nW = 08:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36867481,50.812817
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES MULTI STOREY CAR PARK HIGH STREET WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 18:00\nW = 08:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36864893,50.812744
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED MULTI STOREY CAR PARK HIGH STREET WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 08:00 - 18:00\nW = 08:00 - 18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36867606,50.812781
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS HIGHDOWN HIGHDOWN RISE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.44226517,50.826341
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES HIGHDOWN HIGHDOWN RISE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.44227787,50.826386
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED HIGHDOWN HIGHDOWN RISE WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.44226457,50.826359
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LADIES PUBLIC CONVENIENCES MANOR ROADSIDE BROADWATER ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37302457,50.824488
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GENTS PUBLIC CONVENIENCES MANOR ROADSIDE BROADWATER ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37304983,50.824578
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS MARINE GARDENS WEST PARADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39721587,50.807151
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES MARINE GARDENS WEST PARADE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39677455,50.80719
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED MARINE GARDENS WEST PARADE WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39677517,50.807172
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"GENTS PUBLIC CONVENIENCES REAR OF PUBLIC LIBRARY MULBERRY LANE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.42375016,50.812836
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"LADIES PUBLIC CONVENIENCES REAR OF PUBLIC LIBRARY MULBERRY LANE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.42367953,50.812826
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS POND LANE RECREATION GROUND POND LANE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.41271739,50.835548
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES POND LANE RECREATION GROUND POND LANE WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.41272976,50.835602
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS VICTORIA PARK COBDEN ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.38017121,50.81491
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES LADIES VICTORIA PARK COBDEN ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.38021378,50.814911
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES DISABLED VICTORIA PARK COBDEN ROAD WORTHING"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.38022859,50.814893
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES ALLOTMENTS WEST TARRING PRINCESS AVENUE WORTHING"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = once weekly\nW = closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40354825,50.819576
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCES GENTS BROOKLANDS PLEASURE PARK WESTERN ROAD WORTHING"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"S = 09:00 - 21:00\nW = 09:00 - 17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.33735501,50.820576
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Barton Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:45pm"
+    ,"postcode":"CB7 4HZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.2576445,52.396754
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Cloisters"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:45pm"
+    ,"postcode":"CB7 4ZH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26676569,52.399484
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Newnham Street"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:45pm"
+    ,"postcode":"CB7 4PQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26692253,52.401396
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Palace Green"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:45pm"
+    ,"postcode":"CB7 4EW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26163481,52.399187
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sacrist Gate"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:45pm"
+    ,"postcode":"CB7 4JU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26439112,52.399044
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ship Lane"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:45pm"
+    ,"postcode":"CB7 4BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26918483,52.395922
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Causeway"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:00pm"
+    ,"postcode":"CB25 0DU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.3250339,52.278542
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Recreation Field"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:00pm"
+    ,"postcode":"CB7 5JT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.39057566,52.311673
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Main Street"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:00pm"
+    ,"postcode":"CB6 1HE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.30631192,52.456159
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Fountain Lane"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - 5:00pm"
+    ,"postcode":"CB7 5ED"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.33618536,52.334163
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Newmillardam"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"WF2 7QD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4979843,53.638115
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cornmarket"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"WF8 1BJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.312726,53.691934
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WF9 4DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3511491,53.609914
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pontefract Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WF8 4RD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3281987,53.696965
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pugneys Country Park"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 09:00-18:30"
+    ,"postcode":"WF2 7EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5108441,53.657385
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Anglers County Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 09:00-16:30"
+    ,"postcode":"WF4 2EB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4334002,53.633782
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wakefield One"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Mo-Tu 09:00-18:00; We 09:00-20:00; Th-Fr 09:00-19:00; Sa 09:00-17:00"
+    ,"postcode":"WF1 2DD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5034462,53.684319
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pontefract Castle"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"We-Su 11:00-15:00"
+    ,"postcode":"WF8 1QH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3037412,53.694956
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sandal Castle"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"We-Su 11:00-15:00"
+    ,"postcode":"WF2 7DS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.489077,53.658058
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Trinity Walk Shopping Centre"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-We 09:30-17:30; Th 09:30-08:00; Fr-Sa 09:30-17:30; Su 10:30-16:30"
+    ,"postcode":"WF1 1QS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4938335,53.684162
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ridings Shopping Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 09:00-17:30; Su 10:30-16:30; PH 10:00-17:00"
+    ,"postcode":"WF1 1DS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4962084,53.681817
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Corn Exchange"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-We 10:00-18:00;Th 10:00-20:00; Fr 10:00-18:00; Sa 09:00-18:00; Su 11:00-17:00"
+    ,"postcode":"M4 3TR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2432186,53.485056
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Debenhams"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo 10:00-20:00; Tu-Fr 09:30-20:00; Sa 09:00-20:00; Su 11:00:17:00"
+    ,"postcode":"M60 1TA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2388776,53.482225
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Harvey Nichols"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 10:30-17:00"
+    ,"postcode":"M1 1AD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2444951,53.48429
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"House of Fraser"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"M3 2QG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2479462,53.48173
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Manchester Arndale"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 09:00-20:00; Su 10:00-18:00"
+    ,"postcode":"M4 3AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2433246,53.482512
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Museum of Science and Industry"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 10:00-17:00"
+    ,"postcode":"M3 4FP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.254685,53.477222
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Peoples History Museum"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 10:00-17:00"
+    ,"postcode":"M3 3ER"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2529323,53.48145
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Selfridges and Co"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:30-17:00"
+    ,"postcode":"M3 1BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2437409,53.484166
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Manchester Town Hall"
+    ,"sex":"Unisex"
+    ,"babychange":"YES"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"M2 5DB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.244599,53.478771
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Nicholas Bridges"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07.30 - 18.00"
+    ,"postcode":"CA1 2EE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.926527,54.884213
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Town Dyke Orchard Car Park"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07.30 - 17.00"
+    ,"postcode":"CA3 8AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9381556,54.892931
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Upperby Park"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07.30 - 18.00 in Winter and 07.30 - 20.00 in Summer"
+    ,"postcode":"CA2 4SD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9264632,54.873286
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bitts Park"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07.30 - 18.00 in Winter and 07.30 - 20.00 in Summer"
+    ,"postcode":"CA3 8UL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8258193,54.957632
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bank Street, Longtown"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07.30 - 18.00"
+    ,"postcode":"CA6 5PS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9735117,55.008958
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Milburn Court, Brampton"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07.30 - 18.00"
+    ,"postcode":"CA8 1NW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7352365,54.942631
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Square, Dalston"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07.30 - 18.00"
+    ,"postcode":"CA5 7QA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.983761,54.84112
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hawkenbury Recreation Ground Hawkenbury Road Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":"TN2 5BW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.283064,51.123282
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Street/Sissinghurst Road Sissinghurst Cranbrook"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 16:00"
+    ,"postcode":"TN17 2JA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.55889521,51.108944
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dunorlan Park Pembury Road Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":"TN2 3QN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.28438759,51.133887
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crane Lane Cranbrook"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"TN17 3DG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.5349623,51.095597
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"London Road Southborough Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"TN4 0NA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26004566,51.155863
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Green Maidstone Road Matfield Tonbridge"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"TN12 7LW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.36878032,51.150051
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Balcombes Hill Goudhurst Cranbrook"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"TN17 1AT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.45918619,51.111921
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Grosvenor Recreation Ground Auckland Road Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":"TN1 2JB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.27259503,51.142624
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Johns Recreation Ground Beltring Road Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":"TN4 9RG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.25757773,51.143392
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Calverley Grounds Mount Pleasant Avenue Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"TN1 1QY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.26459572,51.130791
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wellington Rocks, The Common Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"TN4 8AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.2532732,51.130452
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crescent Road Multi Story Car Park Crescent Road Royal Tunbridge Wells"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:00-18:00; Su 09:30-16:30"
+    ,"postcode":"TN1 2UL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.2661908,51.133009
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Commercial Road (Car Park East) Paddock Wood Tonbridge"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":"TN12 6EN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.38820491,51.180342
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street Brenchley Tonbridge"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"TN12 7NQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.39913962,51.150628
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Recreation Ground and Memorial Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Sep: Mo-Su 08:00-17:00; Oct-Mar \"closed\""
+    ,"postcode":"DE6 1EJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7283865,53.01863
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Shawcroft car park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-18:00; Nov-Mar: 08:00-17:00"
+    ,"postcode":"DE6 1GD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7313489,53.016884
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Court Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE45 1QG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7101163,53.224552
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Granby Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-18:00; Nov-Mar: 08:00-17:00"
+    ,"postcode":"DE45 1ES"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.673165,53.212726
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Rutland Recreation Ground"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct \"open\"; Nov-Mar \"closed\""
+    ,"postcode":"DE45 1AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6715924,53.210807
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nether End car park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-18:00; Nov-Mar: 08:00-17:00"
+    ,"postcode":"DE45 1SR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6144702,53.245657
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Main Street"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct \"open\"; Nov-Mar \"closed\""
+    ,"postcode":"DE4 2BN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.645226,53.156133
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Clatterway"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE4 2AY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5849351,53.118301
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Brookside"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-18:00; Nov-Mar: \"Closed\""
+    ,"postcode":"S33 9HF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7405643,53.326654
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Market Place Memorial Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE4 3RE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5520798,53.109598
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Station Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 07:00-19:00; Nov-Mar: 08:00-17:00"
+    ,"postcode":"DE4 2EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5895852,53.161896
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hawkhill Road car park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-18:00; Nov-Mar: 08:00-17:00"
+    ,"postcode":"S32 5QP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.677339,53.286994
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Mill Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"SK17 0AN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8104553,53.139647
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Main Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"S32 1BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.654759,53.330419
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bus Station"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 07:00-11:00; Nov-Mar: 08:00-11:00"
+    ,"postcode":"DE4 3NA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5582549,53.138224
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Causeway Lane (by tennis courts, Hall Leys Park)"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-18:00; Nov-Mar: 08:00-17:00"
+    ,"postcode":"DE4 3AR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5538771,53.138028
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hall Leys Park play area (by Knowleston Place)"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-16:00; Nov-Mar \"closed\""
+    ,"postcode":"DE4 3BU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5516322,53.135412
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Artist's Corner"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE4 3PS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5595823,53.131208
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Memorial Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct \"open\"; Nov-Mar: 08:00-17:00"
+    ,"postcode":"DE4 3NS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.558664,53.121632
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Grand Pavilion"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE4 3NR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5621548,53.119253
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Weaddow Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct \"open\"; Nov-Mar \"closed\""
+    ,"postcode":"DE45 1LS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7088408,53.165186
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Monsal Head (rear car park)"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE45 1NL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7240643,53.24037
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Church Street"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct \"open\"; Nov-Mar \"closed\""
+    ,"postcode":"DE45 1JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7660274,53.194778
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Over Haddon car park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE45 1JE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6971913,53.194614
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Thorpe car park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE6 2AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7694877,53.051653
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Queens Street"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"SK17 8JZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7747281,53.2768
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"East Bank"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct \"open\"; Nov-Mar \"closed\""
+    ,"postcode":"DE4 2DT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6398032,53.14115
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Barmote Croft car park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Apr-Oct: 08:00-18:00; Nov-Mar: 08:00-17:00"
+    ,"postcode":"DE4 4NE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5729567,53.083138
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Holywell Lane"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Jan-Dec \"open\""
+    ,"postcode":"DE45 1UT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6879252,53.174113
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Opposite Oxford Street, Marine Parade, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9816176,51.345908
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"First Aid Post, Marine Parade, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9815243,51.344227
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Birnbeck Road, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9904722,51.353692
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sanatorium South, Royal Sands, Marine Parade, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9831134,51.334619
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Lake Grounds, Beach Road West, Portishead"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7756508,51.489505
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ashcombe Park, Upper Bristol Road, Milton, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9544248,51.355664
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Clarence Park East, Clarence Road East, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9766805,51.336552
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Grove Park, Grove Road, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9792958,51.351493
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Locking Road Car Park, Francis Fox Road, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9716513,51.345829
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Maltings, Worle, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9264091,51.360798
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Links Road, Uphill, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9859564,51.321943
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Chalet, Elton Road, Clevedon"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8653649,51.436833
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Station Road, Clevedon"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8531521,51.435367
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Coronation Road, Bleadon, Weston-super-Mare"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9470354,51.30723
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bath Road, Blagdon, Bristol"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7177464,51.327698
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"High Street, Congresbury, Bristol"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8092497,51.370461
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Broad Street, Wrington"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7635539,51.361928
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Woodborough Road, Winscombe"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8347818,51.314594
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Beach Road, Kewstoke"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.9610658,51.376534
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Combe, Burrington"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.752652,51.325986
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wyndham Way, Portishead"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.7674617,51.483876
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Beach, Clevedon"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.8608834,51.442567
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Forest Recreation Ground, Gregory Boulevard"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"9am-4pm. 7 days a week."
+    ,"postcode":"NG7 6HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1594229,52.965298
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham University Hospitals NHS Trust, City Hospital Campus"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"7am - 9pm. 7 days a week."
+    ,"postcode":"NG5 1PB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1583439,52.989427
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham University Hospitals NHS Trust, Queen???s Medical Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"7am - 9pm. 7 days a week."
+    ,"postcode":"NG7 2UH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1861169,52.94398
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Intu Victoria Shopping Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 3QN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.147386,52.95731
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"InTu Broadmarsh Shopping Centre (South)"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 7LL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1470053,52.950179
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"InTu Broadmarsh Shopping Centre (North)"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 7LL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1476978,52.950534
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham Railway Station"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"24 hours a day. 7 days a week"
+    ,"postcode":"NG2 3AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1467722,52.946896
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham Ice Centre and Capital FM Arena"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"9am- 11pm"
+    ,"postcode":"NG1 1LA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1395959,52.952292
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Victoria Leisure Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 1DB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1385277,52.955116
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Djanogly Community Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG7 6ND"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.163264,52.967626
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham Contemporary"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 2GB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1458403,52.951141
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Mary Potter Centre Hyson Green"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG7 5HY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1720907,52.964658
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ken Martin Leisure Centre, Bulwell"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG6 8AP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1926554,53.009225
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wollaton Hall, Wollaton Park"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG8 2AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2112975,52.948016
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bulwell Riverside Joint Service Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"7am ??? 8pm Mon- Fri and 8am ??? 4pm Sat only"
+    ,"postcode":"NG6 8QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1965888,52.998051
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Trinity Square Car Park, North Church St"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 4AF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1488688,52.956089
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Trent Bridge, The Embankment"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"NG2 2JY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1378584,52.938615
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hyson Green Library, Gregory Boulevard"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"NG7 6BE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1694051,52.965727
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Spondon Street, Off Mansfield Rd, Sherwood"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"NG5 4AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1467235,52.979626
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Car Park North East Of Duke Street"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1968594,53.001936
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bulwell Bus Station"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG6 8QL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1970909,52.999897
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Greyhound Street, Market Square"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"7am ??? 8pm. 7 days a week."
+    ,"postcode":"NG1 2DP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1492202,52.954114
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Broadmarsh Bus Station"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"24 hours"
+    ,"postcode":"NG1 7LB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1478085,52.949447
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Blyburgate Car Park Beccles"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.5655964,52.45585
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hungate Car Park Beccles"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.56295,52.456991
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Old Market Beccles"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.5632252,52.459304
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Quay Beccles"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.5636592,52.464489
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cross Street Bungay"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4378278,52.456021
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Honeypot Meadow (S) Bungay"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4405199,52.452219
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Priory Lane Bungay"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4370548,52.454416
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bakers Score Corton"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.74643,52.518156
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dip Farm Corton"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7487016,52.504151
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Place Halesworth"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.5010116,52.342915
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Thoroughfare Car Park Halesworth"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.503939,52.344276
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Church Road Kessingland"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7274893,52.411671
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Denes Oval Lowestoft North"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7570753,52.49087
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gordon Road (Somerfield) Lowestoft North"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7516908,52.476964
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lowestoft Cemetery Lowestoft North"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7405563,52.481329
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sparrows Nest Park Lowestoft North"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7568812,52.488249
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Triangle Market Lowestoft North"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7553749,52.480436
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jubilee Parade South (S) Lowestoft South"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7419108,52.460678
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kensington Gardens (A12) Lowestoft South"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7399939,52.460649
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kensington Gardens Park Lowestoft South"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7400885,52.459855
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kirkley Cemetery Lowestoft South"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7336796,52.460336
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Normanston Park Lowestoft South"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7259658,52.480395
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pakefield Street Lowestoft South"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7317864,52.454324
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Royal Plain Lowestoft South"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.749805,52.471078
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jubilee Parade North (S) Lowestoft South"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7443926,52.464584
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Nicholas Everitt Park Oulton Broad"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7052875,52.473634
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Yacht Station The Boulevard Oulton Broad"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.7088323,52.474098
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Church Green Southwold"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6798347,52.327643
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ferry Road Southwold"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6774265,52.321979
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Harbour Southwold"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.672756,52.315396
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Pier Southwold"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6850657,52.331051
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fort Green Aldeburgh"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP15 5DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6009838,52.147203
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"opposite Moot Hall Aldeburgh"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP15 5DS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6033118,52.15484
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Lane Aldeburgh"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP15 5AP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.600862,52.151488
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bawdsey Quay picnic area"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"April-October;Mo-Su 06:30-17:30"
+    ,"postcode":"IP12 3AW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.395344,51.992299
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Beach Dunwich"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP17 3DJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6325381,52.278288
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bath Tap Undercliff Road East Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 7LR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3614857,51.962384
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"opp Beach Station Road Sea Road Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-17:00"
+    ,"postcode":"IP11 8DN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3384111,51.951456
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Felixstowe Ferry"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP11 9RZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3907842,51.989031
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Golf Road car park Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 9NB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3724789,51.968204
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Langer Park opposite Holland Road Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"April-October;Mo-Su 05:30-17:00"
+    ,"postcode":"IP11 8BT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3392434,51.957756
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Manor Terrace car park Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 8EL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.330497,51.944647
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ranelagh Road car park Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 7EX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3531544,51.961758
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Spa Pavilion Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 2DX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3549483,51.960826
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Dip Cliff Road Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 9RY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3783302,51.973199
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Next to Town Hall Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 8AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3485448,51.959299
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Leisure Centre Felixstowe"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"April-October;Mo-Su 05:30-18:00"
+    ,"postcode":"IP11  2AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3465946,51.958527
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cobbold Road in Crescent Road car park Felixstowe"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP11 7BX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3505954,51.963756
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crown & Anchor Lane Framlingham"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP13 9BL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.344755,52.22142
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Beach Car Park Sizewell"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP16 4UH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6214667,52.208361
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sizewell Road Leiston"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP16 4AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.58034,52.20637
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bakers Lane rear of Town Hall Orford"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP12 2LG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.5340953,52.09428
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Place Saxmundham"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-17:30"
+    ,"postcode":"IP17 1AG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.4915595,52.215311
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Green Saxtead"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"April-October;Mo-Su 05:30-dusk"
+    ,"postcode":"IP13 9QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.2971123,52.23065
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Boathouse Thorpeness"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP16 4NW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6134794,52.178878
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Green Walberswick"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:30-16:30"
+    ,"postcode":"IP18 6TU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.6636481,52.31299
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crafers car park rear of 46-50 High Street Wickham Market"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-17:30"
+    ,"postcode":"IP13 0QU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3621432,52.152102
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hamblin Road Woodbridge"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP12 1BE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3193838,52.092891
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jetty Lane Woodbridge"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP12 4BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.3163977,52.087875
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Station Road car park Woodbridge"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 05:30-dusk"
+    ,"postcode":"IP12 4AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.31658,52.089741
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Woodthorpe Grange Park"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG5 4HA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.134851,52.984206
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wollaton Hall, Wollaton Park  (Play Area)"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG8 2AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2121146,52.95301
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Colwick Country Park"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG4 2DW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.090765,52.947793
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Forest Recreation Ground, Gregory Boulevard"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"9am-4pm. 7 days a week"
+    ,"postcode":"NG7 6HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1594229,52.965298
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham University Hospitals NHS Trust, City Hospital Campus"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"7am - 9pm. 7 days a week"
+    ,"postcode":"NG5 1PB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1583439,52.989427
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham University Hospitals NHS Trust, Queen???s Medical Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"7am - 9pm. 7 days a week"
+    ,"postcode":"NG7 2UH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1861169,52.94398
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Intu Victoria Shopping Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 3QN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.147386,52.95731
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"InTu Broadmarsh Shopping Centre (South)"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 7LL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1470053,52.950179
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"InTu Broadmarsh Shopping Centre (North)"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 7LL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1476978,52.950534
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham Railway Station"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"24 hours a day. 7 days a week"
+    ,"postcode":"NG2 3AQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1467722,52.946896
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham Ice Centre and Capital FM Arena"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"9am- 11pm"
+    ,"postcode":"NG1 1LA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1395959,52.952292
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Victoria Leisure Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 1DB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1385277,52.955116
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Djanogly Community Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG7 6ND"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.163264,52.967626
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Nottingham Contemporary"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 2GB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1458403,52.951141
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Mary Potter Centre Hyson Green"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG7 5HY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1720907,52.964658
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ken Martin Leisure Centre, Bulwell"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG6 8AP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1926554,53.009225
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wollaton Hall, Wollaton Park  (Courtyard)"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG8 2AE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2112975,52.948016
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bulwell Riverside Joint Service Centre"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"7am ??? 8pm Mon- Fri and 8am ??? 4pm Sat only"
+    ,"postcode":"NG6 8QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1965888,52.998051
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Trinity Square Car Park, North Church St"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG1 4AF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1488688,52.956089
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Trent Bridge, The Embankment"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"NG2 2JY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1378584,52.938615
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hyson Green Library, Gregory Boulevard"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"NG7 6BE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1694051,52.965727
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Spondon Street, Off Mansfield Rd, Sherwood"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"NG5 4AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1467235,52.979626
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Car Park North East Of Duke Street"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1968594,53.001936
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bulwell Bus Station"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"NG6 8QL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1970909,52.999897
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Greyhound Street, Market Square"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"7am ??? 8pm. 7 days a week"
+    ,"postcode":"NG1 2DP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1492202,52.954114
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Broadmarsh Bus Station"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":"24 hours"
+    ,"postcode":"NG1 7LB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1478085,52.949447
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hoyland Market"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-14:30; Sa-Su 07:30-12:30"
+    ,"postcode":"S74 0EW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4383348,53.501181
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Peel Square, Town Centre"
+    ,"sex":"None"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 09:00-16:30"
+    ,"postcode":"S70 2QT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4820485,53.552388
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Queen Street, Town Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 08:30-16:30"
+    ,"postcode":"S70 1SJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4808835,53.552617
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cannon Hall Main Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-16:00"
+    ,"postcode":"S75 4AT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5909968,53.567973
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cannon Hall Museum"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Oct Tu-Fr 10:00-16:00; Sa-Su 11:00-16:00, No-Ma: Sa-Su 12:00-16:00, De 25-Feb 13 off"
+    ,"postcode":"S75 4AT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5904852,53.57092
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Elsecar Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-15:00"
+    ,"postcode":"S74 8EY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4256977,53.492519
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Locke Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-15:00"
+    ,"postcode":"S70 1QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4882498,53.543813
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cooper Gallery"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 10:00-16:00; Sa 10:00-15:00"
+    ,"postcode":"S70 2AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.48194,53.555093
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Worsbrough Mill"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 10:00-16:00"
+    ,"postcode":"S70 5LJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4743509,53.525551
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Elsecar Heritage Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 10:00-16:00"
+    ,"postcode":"S74 8HJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4206327,53.494778
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Elsecar Building 21"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 10:00-16:00"
+    ,"postcode":"S74 8HJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4196906,53.494225
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Main Street, Burnsall, BD23 6BP"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BD23 6BP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9531258,54.045338
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"South Street,High Street, Gargrave, BD23 3RT"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BD23 3RT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1055629,53.982899
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Main Street, Hall Street, Crosshills, BD20 8TA"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BD20 8TA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9904972,53.901517
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Community Centre car park, Off Back Gate, Ingleton, LA6 3HG"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"LA6 3HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4693918,54.152425
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sammy Lane,Thacking Lane, Ingleton, LA6 3EQ"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"LA6 3EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4673715,54.15521
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cove Road, Malham, BD23 4DH"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BD23 4DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1531533,54.061265
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whitefriars car park, Church Street, Settle, BD24 9JD"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"opening_hours=08:00-18:00"
+    ,"postcode":"BD24 9JD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.277829,54.069634
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Town Hall Car Park, Off High Street, Skipton, BD23 1AH"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"opening_hours=09:00-17:00"
+    ,"postcode":"BD23 1AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0142908,53.962085
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coach Street car park, Off Coach Street, Skipton, BD23 1LQ"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"BD23 1LQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0207984,53.96132
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bus Station, Waller Hill,Keighley Road, Skipton, BD23 2NT"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":"opening_hours=24/7"
+    ,"postcode":"BD23 2NT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0192124,53.959271
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Belle Vue Square, Broughton Road, Skipton, BD23 1FJ"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"opening_hours=Mo-Fr 08:45-17:00"
+    ,"postcode":"BD23 1FJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0224895,53.960115
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Boscombe Bus Station"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8379637,50.728092
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hengistbury Head"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.745326,50.716182
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"East Overcliff"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8664415,50.718146
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Firbank Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8618519,50.742304
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fishermans Walk"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8181088,50.725797
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fishermans Overcliff"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8174446,50.721731
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Glen Fern Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8731334,50.721184
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Leslie Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8799962,50.740921
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lower Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8795131,50.719249
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Boscombe Overcliff Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep: 07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8381153,50.721078
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Old Mulberry Close"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":"BH10 4AJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9087963,50.746874
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Milburn Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9030184,50.723776
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Millhams Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9011804,50.769313
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Richmond Hill"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8759784,50.722114
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Seabourne Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8241116,50.730716
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Westover Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8766795,50.719434
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bournemouth Travel Interchange"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8647314,50.72666
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wick Lane Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7859207,50.728854
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Southbourne Crossroads"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7981658,50.721385
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Overcliff"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8853168,50.715118
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Alum Chine"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8960469,50.711585
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bedford Beach"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7950147,50.719572
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Boscombe East"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8375085,50.720403
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bournemouth East"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8732168,50.716544
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bournemouth Pier entrance building"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8756684,50.716097
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bournemouth West"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8780636,50.71556
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Durley Chine"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.887572,50.713834
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"East Undercliff"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8648417,50.717839
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fishermans Foreshore"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8192466,50.720969
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gordon's Zig Zag"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep: 08:30-sunset; Oct-Mar: Sa-Su 08:30-sunset; PH: 08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8110591,50.720858
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Honeycombe Chine"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8402006,50.720236
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Manor Steps"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8326197,50.720845
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Portman Ravine"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep: 08:30-sunset; Oct-Mar: Sa-Su 08:30-sunset; PH: 08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8237515,50.72094
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Warren Edge"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep: 08:30-sunset; Oct-Mar: Sa-Su 08:30-sunset; PH: 08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7916165,50.719224
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coasters"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep: 08:30-sunset; Oct-Mar: Sa-Su 08:30-sunset; PH: 08:30-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8501048,50.719511
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Boscombe Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.848648,50.723214
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Winton Recreation Ground"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8673296,50.739793
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Horseshoe Common"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8724217,50.722451
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tuckton Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-17:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7917604,50.728325
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Albert Street, Bletchley,"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 07:30-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.7325821,51.995158
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Place, Olney,"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Su 08:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.70178526,52.152815
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Silver Street, Stony Stratford,"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.853709,52.055524
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street, Woburn Sands,"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Jan-Dec: Mo-Su 07:30-16:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.64763589,52.011611
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Deer Walk (North), Central Milton Keynes,"
+    ,"sex":"None"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Fr 09:30-18:00; Sa 09:00-19:00; Su 11:00-17:00; PH 09:00-18:00"
+    ,"postcode":"MK9 3AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.75528065,52.044312
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Deer Walk (South), Central Milton Keynes,"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-Fr 09:30-18:00; Sa 09:00-19:00; Su 11:00-17:00; PH 09:00-18:01"
+    ,"postcode":"MK9 3AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.75556161,52.044171
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street, Newport Pagnell,"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.72515523,52.086338
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Midsummer Place, Central Milton Keynes,"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Jan-Dec: Mo-We 09:30-18:00; Th-Fri 09:30-20:00; Sa 09:30-19:00; Su 11:00-17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.75725083,52.041096
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"\"Public Conveniences, High St, Ongar\""
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 06:00 - 18:00"
+    ,"postcode":"CM5 9AG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.24507643,51.705837
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"\"Adj. BP Petrol Station jcn of Debden Broadway/Chigwell Lane\""
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.10
+    ,"openinghours":""
+    ,"postcode":"IG10 3SU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.082018687,51.646963
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"\"Adj. Railway Pub, Queens Rd, Buckhurst Hill\""
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.10
+    ,"openinghours":""
+    ,"postcode":"IG9 5BZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.046360725,51.62518
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"\"Fronting Quakers Lane Car Park, Waltham Abbey\""
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.10
+    ,"openinghours":""
+    ,"postcode":"EN9 1ER"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.001652861,51.68623
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"\"Adj. Playground, Loughton Library Car Park, Trapps Hill\""
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.10
+    ,"openinghours":""
+    ,"postcode":"IG10 1DP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.058477146,51.648996
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"\"Jcn of Brook Path/High Rd, Loughton\""
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.10
+    ,"openinghours":""
+    ,"postcode":"IG10 1AZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.054162855,51.646293
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Camer Park, Camer Park Road, Meopham"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"7am to 1 hour before sunset, latest 8pm"
+    ,"postcode":"DA13 0XT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.36899578,51.37751
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Clive Road, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am ??? 5pm"
+    ,"postcode":"DA11 0RS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.36688973,51.441665
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fort Gardens, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Only open during special events"
+    ,"postcode":"DA12 2BT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.37617451,51.443384
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gordon Promenade, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am ??? (Closing time is season dependant)"
+    ,"postcode":"DA12 2BS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.3788629,51.443608
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gravesend Market, High Street, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am to 5pm; Closed on Sundays"
+    ,"postcode":"DA11 0AZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.37097407,51.443283
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wrotham Road, Meopham"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"09.15am ??? 4.30pm"
+    ,"postcode":"DA13 0AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.35577597,51.362694
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Parrock Street Car Park, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am ??? 5pm"
+    ,"postcode":"DA12 1ER"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.37083565,51.439499
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Perry Street, Northfleet"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"10.15am ??? 3pm"
+    ,"postcode":"DA11 8RD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.35023484,51.433439
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Street, Cobham"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"9.30am ??? 4pm"
+    ,"postcode":"DA12 3BN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.40094088,51.391231
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Windmill Hill Gardens, Clarence Place, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"DA12 1LD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.37243146,51.436139
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Woodlands Park, Dashwood Road, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"10am ??? 3.30pm"
+    ,"postcode":"DA11 7LZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.36149869,51.431729
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Woodville, Civic Centre, Windmill Street"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am ??? 5pm"
+    ,"postcode":"DA12 1AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.36826817,51.439938
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St George's Shopping Centre, Gravesend"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9:00am - 5:30pm; 10:30am - 4:30pm Sundays and Bank Holidays"
+    ,"postcode":"DA11 0TA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.36779561,51.443599
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Appley Park Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1423532,50.727651
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Car Park Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1551774,50.65501
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Carisbrooke Car Park Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3125238,50.691125
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chine Bluff Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1736264,50.626662
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Colwell Beach Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5379127,50.688927
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Compton Bay Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4660965,50.655284
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cowes Parade Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2992709,50.765354
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Eastern Esplanade Public Convenience A"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1524195,50.731205
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Eastern Esplanade Public Convenience B"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.204966,50.593354
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Eastern Gardens Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1496279,50.656022
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Falcon Cross Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1791889,50.63117
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gate Lane Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5129442,50.670804
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Godshill Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.251364,50.632421
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gurnard Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.3241664,50.760699
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lake Slipway Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1628925,50.647548
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lind Street Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1641552,50.73021
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Marlborough Road Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2059475,50.595474
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Medina Road Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2929656,50.758463
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Moa Place Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5233855,50.682205
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mornington Road Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.307475,50.766716
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Osborne Road Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2875421,50.757099
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pier Street Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1579555,50.651541
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Post Office Lane Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2969765,50.699837
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Puckpool Park Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1295727,50.725398
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ryde Esplanade Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1603211,50.733061
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rylstone Gardens Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1761425,50.62507
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sandham Grounds Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1465982,50.657708
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Seaclose Park Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2884254,50.706296
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Seagrove Bay Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1064152,50.713874
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Shanklin Esplanade Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1704407,50.633357
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"South Street Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2934133,50.698556
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Johns Road Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1627847,50.726019
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Cut Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2984215,50.761473
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Duver Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.0993555,50.700132
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Totland Beach Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.544316,50.682603
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tower Cottage Gardens Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.177179,50.626435
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ventnor Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.2152241,50.592425
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Yarmouth Common Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4945208,50.706292
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Yarmouth Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5003478,50.705669
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Yaverland Public Convenience"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8am - dusk"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.1362277,50.661598
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"South Beach Road Heacham"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE31 7 LH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.47009625,52.903388
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"North Beach Jubilee Road Heacham"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE31 7AR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.47290012,52.908752
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Station Road Heacham"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 17:30"
+    ,"postcode":"PE31 7HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.60309561,54.706564
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Seagate Road Hunstanton"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE36 5BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48246028,52.933657
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Central promenade Seagate Road Hunstanton"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE36 5DB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48444241,52.936564
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hunstanton Bus Station"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE36 5EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48830888,52.938587
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Esplanade Gardens Hunstanton"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE36 6EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48679631,52.940759
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bowling Green Cliff Parade Hunstanton"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 24hr April - October"
+    ,"postcode":"PE36 6EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48813395,52.94306
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Cliff Top Car Park Lighthouse Close Hunstanton"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE36 6EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.49509249,52.95017
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Le Strange Hotel Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE36 6LJN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.50228751,52.953858
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Beach Road Holme"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE36 6JN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.52594966,52.96466
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Kings Lynn Bus Station"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE30 1NL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.39900363,52.753976
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ferry Street Kings Lynn"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 17:30"
+    ,"postcode":"PE30 1LJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.39321481,52.755973
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Baker Lane Kings Lynn"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 18:00"
+    ,"postcode":"PE30 1LL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.39494313,52.753168
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Helena Anderson Court"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 17:00"
+    ,"postcode":"PE30 4PR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.41940034,52.757536
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Walks Toilet"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 18:00"
+    ,"postcode":"PE30 5RT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.40616384,52.750522
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Walks Management Building"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 18:00"
+    ,"postcode":"PE30 1PE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.40583249,52.75177
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St James Multi-storey car park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00 - 23:00"
+    ,"postcode":"PE30 1BT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.3987406,52.752696
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Memorial Fields Lynn Road Downham Market"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 17:30"
+    ,"postcode":"PE38 9QT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.38622387,52.609252
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wales Court Bridge Street Downham Market"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30 - 18:00"
+    ,"postcode":"PE38 9DW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.37665697,52.60279
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Howdale Road Downham Market"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:03 - 17:00 April - October"
+    ,"postcode":"PE38 9AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.38241789,52.601452
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Battle Market Square"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN33 0DR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48195701,50.917755
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Battle Mount Street Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN33 0XB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48581588,50.917277
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Cemetery"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN39 5JE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.45064803,50.861016
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Channel View East"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN40 1JS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.47582131,50.837513
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Cooden Sea Road"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN39 4TR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.42787471,50.83379
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Devonshire Square"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN40 1EA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.47386087,50.84073
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill East Parade"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN40 1NY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.48790814,50.84017
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Egerton Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN39 3HL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.46562953,50.83737
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Little Common Rec"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN39 4PG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.43804865,50.848868
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Little Common Roundabout"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN39 4PE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.43369385,50.845451
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Manor Barn"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN40 2JA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.47984893,50.845163
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Normans Bay"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"BN24 6PR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.38950436,50.824437
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Polegrove Bowling"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily ( April to September only)"
+    ,"postcode":"TN39 3EX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.46148946,50.836971
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Polegrove Grandstand"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily ( April to September only)"
+    ,"postcode":"TN39 3EX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.45948992,50.836762
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill Sidley Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN39 5BA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.4701495,50.856252
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bexhill West Parade"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN39 3DT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.45888275,50.835749
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Camber West Car Park (old)"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily ( April to September only)"
+    ,"postcode":"TN31 7RB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.78728486,50.93574
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Camber West Car Park (new)"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily ( April to September only)"
+    ,"postcode":"TN31 7RE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.79001661,50.935243
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Camber Central Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN31 7RH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.79578785,50.93345
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rye Strand Quay"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN31 7DB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.72983404,50.949582
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rye Lucknow Place Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN31 7LP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.7362214,50.952392
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rye Gun Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN31 7HH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.73580084,50.949838
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rye Station Approach"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN31 7AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.73119015,50.952312
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Burwash Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN19 7ET"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.38364596,50.996891
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pett Level"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN35 4EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.68374146,50.888482
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Robertsbridge Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN32 5NP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.47396905,50.9852
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rye Harbour"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN31 7TU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.76259594,50.938036
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sedlescombe Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN33 0PW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.53501086,50.934432
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ticehurst"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN5 7BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.40830831,51.046247
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Winchelsea"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily"
+    ,"postcode":"TN36 4EX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.7077842,50.922492
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Winchelsea Beach"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"07:30 to DUSK daily ( April to September only)"
+    ,"postcode":"TN36 4LX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.72676016,50.912147
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dean Street"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":null
+    ,"openinghours":"7.00am - Midnight"
+    ,"postcode":"NE1 1PQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6090147,54.970225
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Eldon Gardens"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"7.00am - 10.00pm"
+    ,"postcode":"NE1 7RA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6165673,54.975973
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Exhibition Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"as per caf??? opening hours"
+    ,"postcode":"NE2 4PZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6152958,54.984785
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Grainger Arcade"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"As per Arcade opening hours"
+    ,"postcode":"NE1 5PN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6150928,54.973327
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Grainger Town"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"24 Hours"
+    ,"postcode":"NE1 6PZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.622393,54.969486
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Leases Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"Park Keepers Hours"
+    ,"postcode":"NE1 4RR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6229093,54.979408
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Newburn Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"As per Country Park building opening hours"
+    ,"postcode":"NE15 8ND"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7529379,54.983992
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Road Crematorium"
+    ,"sex":"Female and Male"
+    ,"babychange":"TRUE"
+    ,"charge amount":null
+    ,"openinghours":"As per Crematorium hours"
+    ,"postcode":"NE5 2JR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6780078,54.982424
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sainsburys"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4294636,53.572601
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Beales"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4310714,53.579237
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Place"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4303177,53.580867
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Crompton Place"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4286642,53.578662
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Debenhams"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4298097,53.581408
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Marks and Spencer"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4285518,53.579498
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bolton Market"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4325537,53.57649
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bolton Central Library on Le Mans Crescent"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4312942,53.577385
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Town Hall One Stop Shop"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4307742,53.578232
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Town Hall Sq. Elland"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8355768,53.684615
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wharf Street S. Bridge"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9086539,53.709563
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Albion Street"
+    ,"sex":"Male"
+    ,"babychange":"No"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8589356,53.722062
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Bridge End, Mytholmroyd."
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9827438,53.730556
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Brig Royd, Ripponden."
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9408523,53.67363
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Brook Street, Todmorden"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0967661,53.714205
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"George Square, Halifax."
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8617985,53.722443
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Luddenden Lane, Luddenden."
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9384724,53.728061
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"New Road, Hebden Bridge."
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0128195,53.740992
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Thornton Square, Brighouse"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7823154,53.701365
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Townfield Lane, Heptonstall"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0214051,53.749583
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Towngate, Heptonstall"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0202372,53.748999
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Valley Road, Hebden Bridge."
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0124713,53.742987
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wharf Street, Sowerby Bridge."
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.9086539,53.709563
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Calder Holmes Park, Hebden Bridge"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0130313,53.739635
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Centre Vale Park, South Lodge"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.1070031,53.717998
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Manor Heath, Halifax"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8665897,53.707312
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Savile Park, Skircoat, Halifax"
+    ,"sex":"Unisex"
+    ,"babychange":"yes"
+    ,"charge amount":20.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8702193,53.709312
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Shibden Park, Halifax at Playground, Visitors Centre and Car Park"
+    ,"sex":"Female and male"
+    ,"babychange":"yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 06:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.8340112,53.728582
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"TOILET ADJACENT TO PEEL HOUSE, FOOTBALL LANE , WEALDSTONE HA1 3EA"
+    ,"sex":"Female and male"
+    ,"babychange":"NO"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"HA2 8EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.33520073,51.572978
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"TOILET ADJACENT TO NORTH HARROW LIBRARY, 429-433 PINNER ROAD, NORTH HARROW HA1 4HN"
+    ,"sex":"Female and male"
+    ,"babychange":"NO"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"HA2 8EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36082301,51.58519
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"TOILET ADJACENT TO RAYNERS LANE LIBRARY, 226 IMPERIAL DRIVE,  HARROW HA2 7HJ"
+    ,"sex":"Female and male"
+    ,"babychange":"NO"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"HA1 1L"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.37004427,51.57638
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"TOILET ADJACENT TO ROXETH RECREATION GROUND, KINGSLEY LANE, SOUTH HARROW"
+    ,"sex":"Female and male"
+    ,"babychange":"NO"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"HA7 1JJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.35061537,51.560939
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"TOILET ADJACENT TO HARROW RECREATION GROUND, BUTLER ROAD, HARROW"
+    ,"sex":"Female and male"
+    ,"babychange":"NO"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.3552225,51.576794
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"TOILET ADJACENT TO CANONS PARK, LODGE CLOSE, EDGWARE"
+    ,"sex":"Female and male"
+    ,"babychange":"NO"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.29269624,51.608956
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Angel Street"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 Hour"
+    ,"postcode":"S3 8LN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4661059,53.383315
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Birley Moor Road"
+    ,"sex":""
+    ,"babychange":"FALSE"
+    ,"charge amount":0.10
+    ,"openinghours":"24 Hour"
+    ,"postcode":"S12 4WG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4011589,53.348984
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bolsterstone"
+    ,"sex":""
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-17:00 (Longer in Summer)"
+    ,"postcode":"S36 2YY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5937046,53.468076
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Darnall"
+    ,"sex":""
+    ,"babychange":"FALSE"
+    ,"charge amount":0.10
+    ,"openinghours":"24 Hour"
+    ,"postcode":"S9"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4098116,53.385971
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Deepcar"
+    ,"sex":""
+    ,"babychange":"FALSE"
+    ,"charge amount":0.10
+    ,"openinghours":"24 Hour"
+    ,"postcode":"S35"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5656859,53.476912
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Devonshire Green"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.10
+    ,"openinghours":"24 Hour"
+    ,"postcode":"S3 7SB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4787668,53.379434
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Endcliffe Park"
+    ,"sex":""
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-17:00"
+    ,"postcode":"S11 8RU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.508135,53.368179
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Exchange Street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.10
+    ,"openinghours":"24 Hour"
+    ,"postcode":"S1 2BD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4638837,53.384285
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Forge Dam"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"10:00-17:00"
+    ,"postcode":"S10 3BA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5461637,53.360527
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Glen Howe Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":"S17 3EU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5578258,53.444533
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Graves Park"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.4673155,53.338161
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hillsborough Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5031459,53.408193
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hillsborough Superloo"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"S6"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5024037,53.402177
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Millhouses Park"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"sunrise-sunset"
+    ,"postcode":"S7 2QL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5014858,53.341679
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rivelin Valley Park"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Park opening times"
+    ,"postcode":"S6 5GL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5180515,53.391041
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whirlow Brook Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Park opening times"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5382602,53.341036
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Half Acre, Brentford, 20m before Junction with high street"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.30673322,51.483879
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Holly road, Chiswick"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.26055814,51.4926
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bath road, junction with Corban road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.36753087,51.468411
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Staines road, Bedfont"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.42955258,51.453387
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Linkfield Road, Isleworth"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.33672069,51.475127
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bath Road, Hounslow West Station"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.38616455,51.472806
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Prince Regent Road, Hounslow"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.35849036,51.469985
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"In the Castle Grounds"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"B79 7ND"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6960825,52.631313
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Brook Street, St Helens"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-18:00"
+    ,"postcode":"WA10 1PP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.738497,53.453134
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Earlestown Market Square"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-18:00"
+    ,"postcode":"WA12 9BW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.6423751,53.453042
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Coast Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"CO5 8LS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.89897019,51.779474
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"High Street"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"CO5 8QA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.91068295,51.776279
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Willoughby"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"CO5 8BH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.93067126,51.77419
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Fairhaven"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"CO5 8BH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.92629065,51.773931
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Dedham"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"CO7 6DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.9939374,51.957813
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Wivenhoe"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"co7 9dy"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.95865562,51.856609
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Town bus station"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.20
+    ,"openinghours":""
+    ,"postcode":"co2 7dp"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.90199151,51.886756
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Lion Walk"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"co1 1ls"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.90027718,51.888121
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"St Mary car park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"co3 3aa"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.89339171,51.888632
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Council Offices, Urban Road, Kirkby in Ashfield"
+    ,"sex":"Female and Male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 08:30-17:00; Fr 08:30-16:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.249645,53.099897
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Heritage Centre, near cafe???"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.012248,50.7352
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hamworthy, Next to the Co-op"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.006705,50.71612
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Town Centre, opposite the Jobcentre"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.10
+    ,"openinghours":"Open 24 hours??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.98431,50.71621
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Town Centre (Attendant on site)"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.20
+    ,"openinghours":"Open 8am to 8pm all year?????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.97829,50.71781
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Poole Park (Town Centre end) near Dolphin Swimming Pool"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.973162,50.71833
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Poole Park, Inside the large caf?"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Only available when the caf??? is open???????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.965297,50.7209
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Broadstone, adjacent to the cricket pitch"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.988165,50.76251
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Behind public house, Adastral Square, Canford Heath"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.965155,50.74171
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ferry Way, near the chain ferry"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 24 hours??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.94793,50.68375
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Adjacent to the cafe and paddling pool"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.005047,50.71131
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"On the beach, near car park entrance"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 10.00 p.m. in the Summer??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.903842,50.70897
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Inside the sports pavilion"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.926095,50.73329
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Next to Harbourside 2 carpark"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.972754,50.71273
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Adjacent to bowling green"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.93132,50.72638
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"On the beach, near the Beach Office"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 10.00 p.m. in the Summer??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.920638,50.70086
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"On the beach, at entrance/exit footpath"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open from Easter to Autum only, open 8am to 10.00 p.m. in the Summer?????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.925641,50.69799
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"On the beach near the Sandbanks Hotel"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 10.00 p.m. in the Summer??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.92975,50.695
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Town Centre, adjacent to the multi-storey car park Old Orchard"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.10
+    ,"openinghours":"Open 24 hours??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.985685,50.71342
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sports pavilion"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.955868,50.71596
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hamworthy, car park off Lake Road"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.024934,50.71434
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"In the main Car Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.012702,50.73615
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Broadstone, near shopping centre"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.994986,50.76136
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"At entrance/exit to car park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 10.00 p.m. in the Summer??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.938538,50.6884
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Ashley Cross"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.951427,50.72352
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Sea View, Parkstone"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.10
+    ,"openinghours":"Open 24 hours??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.953219,50.73053
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Parkstone, in car park behind the Co-op"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 8.00 p.m. in the Summer"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.936855,50.7294
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Branksome, next to John Lewis"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.10
+    ,"openinghours":"Open 24 hours??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.92195,50.72738
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Adjacent to beach office and shop"
+    ,"sex":""
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Open 8.00 a.m. to 6.00 p.m. in the Winter and 8.00 a.m. to 10.00 p.m. in the Summer??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.90842,50.70703
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Quay, adjacent to old lifting bridge"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 24 hours??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.991818,50.71263
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"The Quay"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open 24 hours??????????????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.984935,50.71202
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"On the beach"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Open from Easter to Autum only, open 8am to 10.00 p.m. in the Summer?????????????????????"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.914161,50.7043
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CHURCH ROAD"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"gu167ad"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.742938335,51.31458576
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"MARTINDALE AVENUE."
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"gu151ay"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.701432011,51.32943925
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"LIGHTWATER COUNTRY PARK"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"gu185rg"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.683197241,51.35060478
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"KNOLL ROAD MULTI STOREY"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"gu153sy"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.741692902,51.33796578
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"STURT ROAD"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"gu166ht"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.727504378,51.30149304
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"PARK STREET BAGSHOT"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"gu195aq"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.693560374,51.36188914
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CHOBHAM HIGH STREET CAR PARK"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"gu248lz"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.601980759,51.34798624
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"MAIN SQUARE MULTI STORY CAR PARK"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Sa 09:00-17:30;Su 10:30-16:40"
+    ,"postcode":"gu153sp"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.746272428,51.3369941
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"FRIMLEY LODGE"
+    ,"sex":"unisex"
+    ,"babychange":"yes"
+    ,"charge amount":null
+    ,"openinghours":"08:00-sunset"
+    ,"postcode":"gu166hy"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.725291279,51.29821463
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"WATCHETTS RECREATION GROUND"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":null
+    ,"openinghours":"08:00-sunset"
+    ,"postcode":"gu152sr"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.748481587,51.32569319
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"FRIMLEY GREEN RECREATION GROUND"
+    ,"sex":"unisex"
+    ,"babychange":"no"
+    ,"charge amount":null
+    ,"openinghours":"08:00-sunset"
+    ,"postcode":"gu166jz"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.728256756,51.30636645
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"MYTCHETT RECREATION GROUND"
+    ,"sex":"none"
+    ,"babychange":"no"
+    ,"charge amount":null
+    ,"openinghours":"08:00-sunset"
+    ,"postcode":"gu166jd"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.732609203,51.29361339
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"GRAND AVENUE RECREATION GROUND"
+    ,"sex":"none"
+    ,"babychange":"no"
+    ,"charge amount":null
+    ,"openinghours":"08:00-sunset"
+    ,"postcode":"gu153qh"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.751735706,51.33610272
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Car Haven"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Mo-We 08:00-18:30; Fr-Sa 08:00-18:30; Th 08:00-20:00; Su 09:30-16:30; PH 09:30-16:30"
+    ,"postcode":"PE1 1HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.240908383,52.57055268
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Peters Arcade Disabled Toilet"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"PE1 1HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.241630687,52.57204692
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Way"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Mo 09:00-17:00; Tu-Sa 09:00-17:30; Su 09:30-16:30; PH 09:30-16:30"
+    ,"postcode":"PE1 1AY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.240115933,52.57523417
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Itter Park"
+    ,"sex":"Female and male"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-dusk"
+    ,"postcode":"PE4 6JT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.255958,52.602585
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Central Park"
+    ,"sex":"Female and male"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-dusk"
+    ,"postcode":"PE1 4DZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.235007,52.584859
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Central Bus Station Toilets Birmingham Road Lichfield Staffordshire"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00 - 18:00"
+    ,"postcode":"WS13 6HU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.825088,52.681721
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences High Street Chasetown Burntwood Staffordshire"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 17:00"
+    ,"postcode":"WS7 4QR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.934034,52.669651
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Dam Street Lichfield Staffordshire"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00 - 18:00"
+    ,"postcode":"WS13 6LA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.82891,52.684208
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Cannock Road Chase Terrace Burntwood Staffordshire"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 17:00"
+    ,"postcode":"WS7 1AN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.935331,52.682442
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Swan Road Lichfield Staffordshire"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00 - 18:00"
+    ,"postcode":"WS13 6PZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.831767,52.683662
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences The Friary Lichfield Staffordshire"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 17:00"
+    ,"postcode":"WS13 6QE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.832089,52.680706
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Rugeley Road Burntwood Staffordshire"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 - 17:01"
+    ,"postcode":"WS7 9BA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.906909,52.678371
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CAEN STREET, BRAUNTON"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"EX33 1AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.108287,-4.162473
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"PILTON PARK, BARNSTAPLE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"EX31 1GY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.084009,-4.061145
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"KILN CAR PARK, COMBE MARTIN"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 0DJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.206902,-4.040031
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"ILFRACOMBE PIER"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 9EQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.210706,-4.113217
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"BUS STATION, BELLE MEADOW LANE, BARNSTAPLE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-16:30; Sat 07:00-18:00"
+    ,"postcode":"EX32 8BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.078615,-4.055923
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"BICCLESCOMBE PARK, ILFRACOMBE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 8JN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.198472,-4.122305
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CROYDE VILLAGE CENTRE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX33 1LZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.131075,-4.224843
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"MOOR LANE, CROYDE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX33 7DY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.13361,-4.237158
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"DOWN END, CROYDE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX33 0DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.125609,-4.238372
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"HELE BAY, ILFRACOMBE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 9QZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.210753,-4.098142
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"COVE CAR PARK, ILFRACOMBE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 9EN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.209423,-4.115584
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"SAUNTON SANDS CAR PARK"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX33 1HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.117247,-4.220849
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"WILDER ROAD, ILFRACOMBE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 4JD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.20634,-4.126847
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"MEMORIAL HALL, LYNMOUTH STREET, LYNMOUTH"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX35 6EH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.230928,-3.831257
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"LOWER LYNDALE CAR PARK, ROAD FROM WATERSMEET ROAD"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX35 6EX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.229645,-3.828678
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"THE PANNIER MARKET, BARNSTAPLE"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"EX31 1BL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.080496,-4.059419
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"BRIMLANDS CAR PARK, ILFRACOMBE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 9QJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.206739,-4.105777
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"TOWN HALL, LEE ROAD, LYNTON"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"EX35 6HT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.23038,-3.836378
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"LANE END , INSTOW"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX39 4LB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.057039,-4.178992
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"PANNIER MARKET, BROAD STREET, SOUTH MOLTON"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"EX36 3AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.017225,-3.834471
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"RED BARN, WOOLACOMBE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 7BE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.17229,-4.207413
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"BOTTOM MEADOW CAR PARK, CASTLE HILL, LYNTON"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"EX35 6AR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.228808,-3.833422
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CAR PARK, MARINE PARADE, INSTOW"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX39 4JW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.051885,-4.180947
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"CATTLE MARKET CAR PARK, TULY STREET, BARNSTAPLE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:00-18:00"
+    ,"postcode":"EX31 1DP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.080397,-4.061805
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"STATION ROAD, MORTEHOE"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":"EX34 7DT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.185441,-4.207808
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"THE NORTH DEVON CREMATORIUM, OLD TORRINGTON ROAD,"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-17:00;Sa-Su 10:00-17:00"
+    ,"postcode":"EX31 3NW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    51.065166,-4.078006
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cemetry at Welton Road in Daventry"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-16:30"
+    ,"postcode":"NN11 0PP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.159552,52.26409
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Daventry Country Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-17:00"
+    ,"postcode":"NN11 2JB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.154962,52.272895
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"New Street in Daventry"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-17:00"
+    ,"postcode":"NN11 4BS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.161076,52.25651
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Church Street in Woodford Halse"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-17:00"
+    ,"postcode":"NN11 3RA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.207353,52.170031
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Brixworth Country Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"07:00-19:00"
+    ,"postcode":"NN6 9DG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.897766,52.318463
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street in Long Buckby"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-17:00"
+    ,"postcode":"NN6 7PW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.113643,52.285719
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Grand Union Canal at Long Buckby Wharf"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00-17:00"
+    ,"postcode":"NN6 7RD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.080284,52.302954
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Barham Park"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.311366802,51.55218868
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Brent Civic Centre"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Fr 8:30-20:00; Sa-Su 09:00-17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.281676854,51.55902294
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Bridge Park Community Leisure Centre"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"open \"Various\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.271195233,51.54306995
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Chamberlayne Road"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.21920349,51.53354272
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Douglas Avenue"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.297794162,51.54638137
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public Toilet - Ealing road library"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"open \"Various\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.297431039,51.54915472
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Elm Road"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-24:00; Mo-Su 08:00-24:00 open \"Wembley Event Days\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.296577639,51.55346762
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Empire Way"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.28623709,51.55634751
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - High Road Willesden"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.225488914,51.54741717
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Kingsbury Road"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.286053446,51.55344642
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Oakington Manor Drive / Harrow Road"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-24:00; Mo-Su 08:00-24:00 open \"Wembley Event Days\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.286053446,51.55344642
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Queens Park"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.204181625,51.53312488
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Roundwood park"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.237958537,51.54109175
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - St John's Road"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-24:00; Mo-Su 08:00-24:00 open \"Wembley Event Days\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.296577639,51.55346762
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Sudbury and Harrow Road Station"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.315391345,51.55454476
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Tavistock Road"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Mo-Su 08:00-24:00; Mo-Su 08:00-24:00 open \"Wembley Event Days\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.247754446,51.5368502
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Vale Farm Sports Centre"
+    ,"sex":""
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"open \"Various\""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.316395367,51.55819583
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Public toilet - Victoria Road"
+    ,"sex":""
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.199994629,51.53765584
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Staithes Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-16:00"
+    ,"postcode":"TS13 5BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.79313616,54.55599674
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bank Bottom"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"TS13 5DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.789783307,54.5584607
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Runswick Lane"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; -"
+    ,"postcode":"TS13 5HP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.753141821,54.5340573
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Helens Square"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.10
+    ,"openinghours":"All Year Round; 08:00-21:30"
+    ,"postcode":"YO11 1EU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.396979154,54.28336905
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Nicholas Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.40
+    ,"openinghours":"Summer only; 10:00-18:00"
+    ,"postcode":"YO11 1NU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.396997278,54.28132
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Glen Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 07:30-20:00"
+    ,"postcode":"YO11 2HG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.287284211,54.20402588
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Weaponness Coach And Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-19:30"
+    ,"postcode":"YO11 2JL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.412649913,54.2725234
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Burniston Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-21:00"
+    ,"postcode":"YO12 6PH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.411679799,54.29258587
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Royal Albert Drive"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-20:30"
+    ,"postcode":"YO12 7HY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39398144,54.28816495
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"North Bay Beach Management Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 10:00-18:30"
+    ,"postcode":"YO12 7TU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40864366,54.29468544
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 09:00-20:00"
+    ,"postcode":"YO14 9AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.291340659,54.20982204
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Royal Parade"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-20:00"
+    ,"postcode":"YO14 9JZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.285191049,54.20346009
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"New Quay Road"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.40
+    ,"openinghours":"All Year Round; 09:00-17:00"
+    ,"postcode":"YO21 1DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.614822344,54.48539271
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Carrs"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO21 1RL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.629621198,54.46984176
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lealholm Village Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO21 1SZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.823813096,54.45817427
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Broom House Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO21 1UX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.762542512,54.43605295
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Marina Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-21:00"
+    ,"postcode":"YO21 1YN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.612156745,54.48321369
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Station Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO21 2EG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.939967484,54.46342307
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dale End"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO21 2JF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.909199489,54.46714979
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Cliff"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 10:00-18:00"
+    ,"postcode":"YO21 3HA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.62250108,54.49024394
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Khyber Pass"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-21:00"
+    ,"postcode":"YO21 3PU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.614713383,54.49044258
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lythe Bank"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO21 3SU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.673090406,54.503979
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Place"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-21:00"
+    ,"postcode":"YO22 4DD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.612653963,54.48788442
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whitby Abbey Car Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-21:00"
+    ,"postcode":"YO22 4JS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.605531173,54.48624759
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Station Car Park. Station Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 24 hour-"
+    ,"postcode":"YO22 4RA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.536872595,54.43590381
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bank Top"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO22 4UA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.534634905,54.43293767
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Waterloo"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO22 5QE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.726794846,54.43584331
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Dock"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO22 4ST"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.532737441,54.43037996
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"East Row"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":"YO21 3SU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.666171359,54.50014639
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bank Top Lane"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 24 hour-"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.750219801,54.53311069
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ravine Road"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.283953723,54.2111187
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Filey Beach Attended Toilets"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 10:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.284467497,54.20887484
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Holbeck Clock Scarborough"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 07:30-20:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.394126905,54.26981262
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Peasholm Park Scarborough"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 08:00-18:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.409576096,54.28973779
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Vincent Pier"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; 07:30-21:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.387105264,54.2836689
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Woodlands Cemetery"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; -"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.442849921,54.27652511
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Pier"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.40
+    ,"openinghours":"All Year Round; 10:00-18:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.392377938,54.28357746
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Filey Country Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 07:30-20:00"
+    ,"postcode":"YO14 9ET"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.283629285,54.21635446
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whitby Beach Management Centre"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 07:30-21:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.622592018,54.49121564
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whitby Cemetery"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"All Year Round; -"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.610824298,54.47537038
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cayton Bay"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 08:30-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.364065845,54.24469842
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"South Cliff Gardens"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 07:30-21:30"
+    ,"postcode":"YO12 2HD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.396626791,54.27402752
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ravenscar (NYMNP)"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":"YO13 0NA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.491364194,54.39971881
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Aislaby Parish Council Public Convenience"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":"YO21 1SW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.678019716,54.46590488
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sandhill Bank"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.9784702,54.48573548
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Main Street"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.976605865,54.44357236
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Scaling Dam Car Park (NYMNP)"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.835673671,54.50560962
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Goathland Car Park (NYMNP)"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.71743647,54.40134173
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hunmanby Gap Public Convenience"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"Summer only; 24 hour-"
+    ,"postcode":"YO14 9QW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.27015843,54.17829687
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Eskdaleside-cum-Ugglebarnby Parish Council Public Conveniences"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.666453357,54.44969032
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Scalby Parish Council Public Conveniences"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":null
+    ,"openinghours":"All year round; 24 hour-"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.447989607,54.30005472
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Market Road  Opposite County Hall and Multi-Storey Car-Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=Mo-Fr 08:00-18:00, Sa-Su 10:00-17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.471440429,51.73452103
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Lionmede Park, Sandford Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.487191232,51.73702141
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Hylands Park (Writtle End Entrance)"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.430471414,51.71653551
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Central Park, Next to Bowling Green and Caf???"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.464078494,51.73258031
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Admirals Park, Near footbridge from Admirals Park to West Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.452136742,51.73912531
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Melbourne Park, at entrance to stadium carpark"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.450776884,51.75173489
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public Toilets"
+    ,"name":"Oaklands Park, next to Moulsham Street Entrance to Museum."
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"opening_hours=sunrise-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.463808134,51.72335013
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Regent Road Car Park, Altrincham"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Sa 09:15-15:45"
+    ,"postcode":"WA14 1RY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3529679,53.385792
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hereford Street, Sale"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:15-15:45"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3235387,53.424539
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cecil Road Car Park, Hale"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 09:00-15:45"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3456722,53.375972
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Halecroft Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep Mo-Fr 07:30-16:30; Oct-Mar Mo-Fr 07:30-15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3167098,53.372474
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Stamford Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3410964,53.383408
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Denzell Gardens"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep Mo-Fr 07:30-16:00; Oct-Mar Mo-Fr 07:30-15:00; Sa-Su 07:30-15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3705792,53.382448
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"John Leigh Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-16:30"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3558593,53.391957
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Woodheys Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 07:30-18:00"
+    ,"postcode":"M33 4LP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.353853,53.410357
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Walton Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.331076,53.4142
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Walkden Gardens"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-15:00"
+    ,"postcode":"M33 3EL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.312279,53.418331
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Worthington Park"
+    ,"sex":"Unisex"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep Mo-Fr 07:30-16:00; Oct-Mar Mo-Fr 07:30-15:00; Sa-Su 08:00-16:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.308733,53.424156
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ashton Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sep Mo-Fr 07:30-16:30; Oct-Mar Mo-Fr 07:30-15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.334895,53.430932
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Longford Park"
+    ,"sex":"Unisex"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.291754,53.446596
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Davyhulme Park"
+    ,"sex":"None"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 07:30-15:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.353225,53.453567
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Altrincham Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 10:00-17:00; We 10:00-19:00; Sa 10:00-16:00"
+    ,"postcode":"WA14 1EJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.348242,53.387713
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coppice Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 08:30-17:00; Sa 10:00-16:00"
+    ,"postcode":"M33 4ND"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.351112,53.414242
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Davyhulme Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 10:00-17:00; Th Off; Sa 10:00-13:00"
+    ,"postcode":"M41 7BL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.358273,53.456854
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hale Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 10:00-17:00; Tu 10:00-19:00; We Off; Th-Fr 10:00-17:00; Sa 10:00-16:00"
+    ,"postcode":"WA15 9BG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.344181,53.376631
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lostock Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Tu 10:00-15:00; We Off; Th 12:00-17:00; Fr 10:00-15:00; Sa 10:00-13:00"
+    ,"postcode":"M32 9PL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.330453,53.45487
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Old Trafford Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-17:00; Sa 10:00-16:00"
+    ,"postcode":"M16 9AX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.262647,53.46144
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Partington Library & Wellbeing Centre"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 10:00-19:00; Tu 10:00-17:00; We Off; Th-Fr 10:00-17:00; Sa 10:00-13:00"
+    ,"postcode":"M31 4FY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.426466,53.418465
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sale Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:00-19:00; Tu 09:00-17:00; We 09:00-19:00; Th-Fr 09:00:17:00; Sa 10:00-16:00"
+    ,"postcode":"M33 7ZF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.31959,53.425415
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Stretford Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 10:00-17:00; Th 10:00-19:00; Sa 10:00-16:00"
+    ,"postcode":"M32 8AP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.312627,53.446069
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Timperley Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Tu 10:00-17:00; We Off; Th 10:00:19:00; Fr 10:00-17:00; Sa 10:00-16:00"
+    ,"postcode":"WA15 7XR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.316375,53.398252
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Urmston Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 10:00-17:00; Tu 10:00-19:00; We-Th 10:00-17:00; Fr 10:00-19:00; Sa 10:00-16:00"
+    ,"postcode":"M41 0NA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.353724,53.449535
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Woodsend Library"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 10:00-17:00; We Off; Sa 10:00-13:00"
+    ,"postcode":"M41 8GN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.393083,53.453381
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Trafford Town Hall"
+    ,"sex":"None"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 08:30-17:00"
+    ,"postcode":"M32 0TH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.2875863,53.458684
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sale Town Hall"
+    ,"sex":"None"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Fr 09:00-17:00"
+    ,"postcode":"M33 7EE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.3198694,53.424958
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BOTWELL GREEN LIBRARY  EAST AVENUE HAYES UB3 3HW"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-We 09:00-19:00 ; Th 09:00-20:00 ;  Fr 09:00-19:00 ;  Sa 09:00-17:00 ; Su 10:00-13:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.416278,51.50781
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"CENTRAL LIBRARY 13-14 HIGH STREET UXBRIDGE UB8 1HD"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 08:00-20:00 ; Fr 08:00-17:30 ; Sa 09:00-17:30 ; Su 11:00-17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.47673,51.544683
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"CHARVILLE LIBRARY (KINGSHILL)  BURY AVENUE HAYES UB4 8LF"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:30-19:00 ; Tu-We 09:30-17:30 ; Th 09:30-19:00 ;  Fr 09:30-17:30 ; Sa 09:30-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.425876,51.534569
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"EASTCOTE LIBRARY  FIELD END ROAD PINNER HA5 1RL"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-We 09:30-18:00 ; Th 09:30-19:00 ; Fr 09:30-17:30 ; Sa 09:00-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.39905,51.579882
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HAREFIELD LIBRARY  PARK LANE UXBRIDGE UB9 6BJ"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-We 09:00-18:00 ; Th 09:00-19:00 ;  Fr 09:00-18:00 ;  Sa 09:00-17:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.481377,51.603918
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HARLINGTON LIBRARY  PINKWELL LANE HAYES UB3 1PE"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:00-17:30 ; Tu 09:00-19:00 ; We-Fr 09:00-17:30 ; Sa 09:30-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.435063,51.4971
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"HAYES END LIBRARY  UXBRIDGE ROAD HAYES UB4 8JQ"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:30-19:00 ; Tu-We 09:30-17:30 ; Th 09:30-19:00 ; Fr 09:30-17:30 ; Sa 09:30-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.434551,51.525485
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"ICKENHAM LIBRARY  COMMUNITY CLOSE UXBRIDGE UB108RE"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:00-17:30 ; Tu 09:00-19:00 ; We 09:00-17:30 ; Th 09:30-19:00 ; Fr 09:30-17:30 ; Sa 09:30-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.441948,51.563031
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"NORTHWOOD HILLS LIBRARY  POTTER STREET NORTHWOOD HA6 1QQ"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-We 09:00-18:00 ; Th 09:00-19:00 ;  Fr 09:00-17:30 ;  Sa 09:00-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.406725,51.602299
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"NORTHWOOD LIBRARY (OAKLANDS GATE) 12 OAKLANDS GATE NORTHWOOD HA6 3AA"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:00-18:00 ; Tu 09:00-19:00 ; We-Fr 09:00-18:00 ; Sa 09:00-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.423249,51.611785
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"OAK FARM LIBRARY  LONG LANE UXBRIDGE UB109PB"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:00-19:00 ; Tu-We 09:30-17:30 ; Th 09:00-19:00 ; Fr 09:00-17:30 ; Sa 09:00-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.448456,51.540976
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience (1) Botwell Green Botwell Lane Hayes Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.41788,51.507337
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience (2) Botwell Green Botwell Lane Hayes Middlesex"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.417922,51.507356
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent 269 Coldharbour Lane Hayes Middlesex UB3 3EJ"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.406633,51.516988
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent Churchfield Gardens High Street Ruislip Middlesex HA4 7BD"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.423983,51.574761
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent Library Car Park Falling Lane West Drayton Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.472139,51.51509
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent Railway Line Joel Street Northwood Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.408263,51.600422
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent ruislip War Memorial Eastcote Road Ruislip Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.425491,51.576625
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent Subway South Walk Hayes Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.43046,51.524135
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent To Bowling Green Hillingdon Court Park Court Drive Uxbridge Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.451321,51.543667
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Adjacent West Drayton Library Station Road West Drayton Middlesex"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.46849,51.505284
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience At Western End Of Station Road Uxbridge Middlesex UB8 3AA"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.479782,51.529695
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Connaught Recreation Ground Uxbridge Road Uxbridge Middlesex UB10 0NW"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.441177,51.527345
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Intu Uxbridge The Chimes Shopping Centre High Street Uxbridge Middlesex UB8 1GA"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-We 09:30-19:00 ; Th 09:30-20:00 ; Fr-Sa 09:30-19:00 ; Su 11:00-17:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.473537,51.544821
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Junction of Fairfield Road And High Street Yiewsley West Drayton Middlesex UB7 7BQ"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.470973,51.512889
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Junction of St Anselms Rd and Station Road Hayes Middlesex UB3 4ZZ"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.417647,51.504906
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Linden Close Car Park Ruislip Middlesex HA4 8ZZ"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.410093,51.572028
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Near Hatton Cross Station Hatton Road South London Heathrow Airport Heathrow Middlesex TW6 3RE"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.421258,51.466706
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience No 1 Northwood Bowls Club Chestnut Avenue Northwood Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.416486,51.602332
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Northwood Bowls Club Chestnut Avenue Northwood Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.41653,51.602305
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Oaklands Gate Car Park Northwood Middlesex HA6 3AA"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.424,51.611813
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Scout Camping Site Mad Bess Wood Ducks Hill Road Northwood Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.44467,51.589831
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Site Coney Green Uxbridge Road Uxbridge Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.456106,51.533981
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Site Pole Hill Open Space Grosvenor Crescent Uxbridge Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.437668,51.539727
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Taylors Meadow Hill End Road Harefield Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.479394,51.610088
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Warrender Park Lime Grove Ruislip Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40298,51.576905
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Wood End Green Allotments Wood End Green Road Hayes Middlesex UB3 2SF"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.428282,51.522487
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Convenience Woody Bay Ruislip Lido Reservoir Road Ruislip Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.428094,51.587784
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Adjacent Harefield Library Park Lane Harefield Middlesex UB9 6BJ"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.481013,51.603994
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences At The Great Barn Manor Farm Complex Bury Street Ruislip Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.427274,51.577665
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Community Close Ickenham Middlesex"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.441979,51.563418
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Crown Walk The Pavilions Shopping Centre Uxbridge Middlesex UB8 1SW"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"08:00-20:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.480681,51.54557
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"RUISLIP MANOR LIBRARY  LINDEN AVENUE RUISLIP HA4 9BW"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09:00-21:00 ; Fr 09:00-17:30 ; Sa 09:00-17:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.40997,51.571829
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"SOUTH RUISLIP LIBRARY  VICTORIA ROAD RUISLIP HA4 0JE"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Th 09:00-21:00 ; Fr 09:00-17:30 ; Sa 09:00-17:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.393397,51.556827
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Boathouse Public Convenience Ruislip Lido Reservoir Road Ruislip Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.432514,51.589399
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Waters Edge Public Convenience Reservoir Road Ruislip Middlesex"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.431528,51.590366
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"YEADING LIBRARY  YEADING LANE HAYES UB4 0EW"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-We 09:00-18:00 ; Th 09:00-19:00 ; Fr 09:00-18:00 ; Sa 09:00-17:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.402566,51.520368
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"YIEWSLEY LIBRARY 192 HIGH STREET WEST DRAYTON UB7 7BE"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"Mo 09:30-19:00 ; Tu-We 09:30-18:00 ; Th 09:30-19:00 ; Fr 09:30-18:00 ; Sa 09:00-16:00 ; Su closed"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.4725,51.514645
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Street Bibury"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL7 5NP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.832214145,51.75870618
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Church Rooms Bourton on the Water"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GL54 2AX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.756730044,51.88483637
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Rissington Road Bourton on the Water"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL54 2DR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.752271565,51.88088389
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sheep Street Chipping Campden"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-19:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL55 6DX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.781439828,52.04885839
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Brewery Car Park Cirencester"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL7 1JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.967398017,51.71566611
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Forum Car Park Cirencester"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL7 2PF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.96379753,51.71565543
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"London Road Cirencester"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 07:00-21:00; Oct-Mar: Mo-Su 08:00:18:00"
+    ,"postcode":"GL7 1AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.959194866,51.71619137
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street Fairford"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL7 4AF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.780010021,51.70816997
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Burford Street Lechlade"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-19:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL7 3AJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.690149728,51.69525054
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street Moreton in Marsh"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL56 0AH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.701873312,51.98973649
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Place Northleach"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-19:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL54 3EJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.835351025,51.82936377
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Market Square Stow on the Wold"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL54 1AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.722331108,51.93073197
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Maugersbury Road Stow on the Wold"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-21:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL54 1HH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.716761023,51.92785428
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Chipping Tetbury"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-19:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL8 8ES"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.15742291,51.63698374
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Street Tetbury"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"Apr-Sept: Mo-Su 08:00-19:00; Oct-Mar: Mo-Su 08:00-18:00"
+    ,"postcode":"GL8 8LL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.160342018,51.63568741
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Golden Grill Restaurant, Shepperton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Monday - Saturday 7.30am to 10.30pm, Sunday 9.30am to 5.30pm"
+    ,"postcode":"TW17 9AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.448650048,51.39311393
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Greeno Centre, Shepperton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Monday - Friday 9am to 4pm"
+    ,"postcode":"TW17 9DH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.444947165,51.39210267
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Subway, Ashford"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Monday - Sunday 7am to 10pm"
+    ,"postcode":"TW15 2UT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.465058137,51.43496438
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Golden Grill Restaurant, Ashford"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Monday - Saturday 8am to 10pm, Sunday 9am to 9.30pm"
+    ,"postcode":"TW15 2PE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.460776485,51.43222854
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Fordbridge Centre, Ashford"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Monday - Friday 9.30am to 4pm"
+    ,"postcode":"TW15 2QA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.463085976,51.43199807
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Shepperton Lock"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"Automated so open all hours"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.45884906,51.38217891
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Fordbridge Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.476510563,51.42759623
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ashford Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.453759343,51.43469001
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Laleham Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.486658023,51.40432075
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bishop Duppas Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":"TW17 8NR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.435587512,51.38964907
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Littleton Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.466367091,51.40231248
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Shepperton Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.445272168,51.39269149
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lammas Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.522559541,51.43593695
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Staines Park"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.500288889,51.42845138
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Long Lane Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.469979405,51.45215898
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Stanwell Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.477748986,51.45871653
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cedar Recreation Ground"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.419372316,51.41141783
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Kenyngton Manor Recreation"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":"TW16 7RT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.417047089,51.428364
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sunbury Park and The Walled Garden"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"1 October - 31 March: 7.30am to 6pm.  1 April to 30 September: 7.30am to 8.30pm"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.409055185,51.40581987
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Automatic Public Convenience  Church Road  Lymm  WA13 0QQ"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 hour"
+    ,"postcode":"WA13 0QQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.47753811,53.37758635
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Automatic Public Convenience  Pepper Street  Lymm  WA13 0HB"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 hour"
+    ,"postcode":"WA13 0HB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.4678339,53.3808205
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Automatic Public Convenience  opposite 757 Knutsford Road  Warrington WA4 1JY"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 hour"
+    ,"postcode":"WA4 1JY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.55979175,53.37930917
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Walton Hall & Gardens  Walton Lea Road  WA4 6SN"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"08:00 to dusk"
+    ,"postcode":"WA4 6SN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.60086008,53.35964662
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Warrington Bus Interchange  Horsemarket Street  WA1 1TF"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"05:30 to 23:30"
+    ,"postcode":"WA1 1TF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.59281851,53.39062262
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Warrington Retail Market  Bank Street  WA1 2AP"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00 to 16:30"
+    ,"postcode":"WA1 2AP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5936878,53.38777413
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hatters  Horsemarket Street  WA1 1XP"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"09:00 to 17:00"
+    ,"postcode":"WA1 1XP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.5923647,53.39013754
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences South Street"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"07:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.334289269,51.23054284
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences St Martins Walk"
+    ,"sex":"Female and Male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.331909893,51.23342529
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Woodfield Lane"
+    ,"sex":"Female and Male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"07:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.299856512,51.31005598
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Guildford Road"
+    ,"sex":"Female and Male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"07:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.373141956,51.27732897
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Swan Court"
+    ,"sex":"Female and Male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"07:00-19:00"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.327993816,51.29621683
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences Old London Road"
+    ,"sex":"Female and Male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.322353773,51.2552539
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Public Conveniences, Dorking Cemetery Reigate Road"
+    ,"sex":"Female and Male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":"09:00-sunset"
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.319178182,51.23662045
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Disabled Toilet St Martins Walk"
+    ,"sex":"Unisex"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.331437884,51.23273117
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The public toilets are located in The Hart off West Street (A325) beside the Coach/Car Park"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU9 7HE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.803165771,51.21438291
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"In the centre of the Car Park, Victoria Road"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU9 7RB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.798582843,51.21387728
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"By the Playground Area at  the corner of Longbridge and Union Road"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU9 7PT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.796305589,51.21335934
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Farnham Park Golf Club House, Farnham Park"
+    ,"sex":"Female and male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-sunset"
+    ,"postcode":"GU9 0AU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.80295465,51.22031582
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Next to Caf? and Ranger Offices"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU10 2QB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.793510026,51.15815217
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Next to the playground in Broadwater Park which is off Summers Road, Farncombe"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU7 3BH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.59705534,51.19848723
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"In Crown Court courtyard off the High Street, at the top end of the car park"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU7 1DY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.611970025,51.18609335
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Corner of Farncombe Street and Station Lane and beside the level crossing"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU7 3LH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.606070807,51.19617602
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"On the Guildford Road (B2128) beside the Cricket Pavilion"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU6 8SH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.497213119,51.14372213
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"In Village Way off the High St (B2128) at entrance to the Car Park"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU6 8AF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.488190994,51.13981985
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"In the centre of the Car Park which is accessed via the High Street (A286)"
+    ,"sex":"Female and male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Mo-Su 08:00-18:00"
+    ,"postcode":"GU27 2HQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -0.71046966,51.08827398
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Angel Place"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 hours"
+    ,"postcode":"WR1 3QS"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.222844,52.193182
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cornmarket"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"24 hours"
+    ,"postcode":"WR1 2DR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.136066,52.113505
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Croft Road"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"7am - 8pm Monday - Sunday"
+    ,"postcode":"WR1 3EJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.134347,52.113586
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cripplegate Park"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.20
+    ,"openinghours":"7am - 8pm Monday - Sunday"
+    ,"postcode":"WR2 5BA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.134751,52.112348
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Gheluvelt Park"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"7am - 8pm Monday - Sunday"
+    ,"postcode":"WR1 3ET"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.133947,52.12244
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Astwood Cemetery"
+    ,"sex":"Unisex"
+    ,"babychange":"FALSE"
+    ,"charge amount":0.00
+    ,"openinghours":"7am - 8pm Monday - Sunday"
+    ,"postcode":"WR3 8HA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.123544,52.122676
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Guildhall"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am - 4pm Monday - Saturday"
+    ,"postcode":"WR1 2EY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.123542,52.122673
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Worcester City Art Gallery and Museum"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"10:30 - 4:30pm Monday - Saturday"
+    ,"postcode":"WR1 1DT"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.222514,52.196304
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Worcester Woods Country Park"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am - 5pm Monday - Sunday"
+    ,"postcode":"WR5 2LG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.180077,52.18701
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Hive"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"8:30am - 10pm Monday - Sunday"
+    ,"postcode":"WR1 3PB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.22572,52.194015
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Worcestershire County Hall"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9-5pm Monday - Friday"
+    ,"postcode":"WR5 2NP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.18337,52.185759
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St John's Library"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.00
+    ,"openinghours":"9am -5pm Monday - Friday 9am - 4pm Saturday"
+    ,"postcode":"WR2 5AX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.235135,52.188565
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Needham- Needham Lakes"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"(April- September) 9am- 7pm, (October- March) 9am-5pm"
+    ,"postcode":"IP6 8NU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.062026,52.150407
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Eye- Cross Street"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"(Summer) 9AM-6PM (Winter) 9AM-5PM"
+    ,"postcode":"IP23 7AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.145802,52.320808
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mid Suffolk District Council Offices"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8:30AM-5PM"
+    ,"postcode":"IP6 8DL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.04896,52.156034
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sudbury- Gaol Lane"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.20
+    ,"openinghours":"8AM-6PM"
+    ,"postcode":"CO10 1JL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.730131,52.039296
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sudbury- Belle Vue Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Opening Times of the Parks"
+    ,"postcode":"CO10 2RG"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.738863,52.0359
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Sudbury- Bus Station"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8AM-6PM"
+    ,"postcode":"CO10 2UU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.73274,52.037356
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Chelmondiston- Pin Mill"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8AM-6PM"
+    ,"postcode":"IP9 1JP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.210779,51.996589
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"East Begholt- Red Lion Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"8AM- 6PM"
+    ,"postcode":"CO7 6TB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.011516,51.971602
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hadleigh- Magdalen Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8AM-6PM"
+    ,"postcode":"IP7 5BB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.954997,52.043832
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lavenham - Cock Inn Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8AM-7PM"
+    ,"postcode":"CO10 9SA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.792949,52.105829
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Lavenham- Prentice Street Car Park"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"Closed from November -March, (April to October, 8Am-7PM)"
+    ,"postcode":"CO10 9QZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.796164,52.109125
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Long Melford- Cordell Road"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"9AM-6PM"
+    ,"postcode":"CO10 9EP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.720752,52.076465
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Shotley- Bristol Hill"
+    ,"sex":"Female and Male"
+    ,"babychange":""
+    ,"charge amount":0.00
+    ,"openinghours":"8.03am-7pm"
+    ,"postcode":"IP9 1PY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.268895,51.955918
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hadleigh- Babergh District Council Offices"
+    ,"sex":"Female and Male"
+    ,"babychange":"No"
+    ,"charge amount":0.00
+    ,"openinghours":"9AM-5PM"
+    ,"postcode":"IP7 6SJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    0.948514,52.047925
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Flatford: Bridge Cottage Visitor Centre"
+    ,"sex":"Female and Male"
+    ,"babychange":"Yes"
+    ,"charge amount":0.00
+    ,"openinghours":"8AM- 6:30PM"
+    ,"postcode":"CO7 6UL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    1.021453,51.95872
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Armada Way Underground Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 1HH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.142446053,50.37163488
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Closed Tothill Park Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL4 9HQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.120929897,50.37397821
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coypool Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL7 5AA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.082213328,50.39384629
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Cremyll Street Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 3RE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.162525413,50.36563848
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Dean Hill Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL9 9AB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.093043009,50.35956875
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Demolished Thorn Park Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL3 4TF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.132752237,50.38767634
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Devils Point Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 3RW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.161575181,50.36175447
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Disabled Toilet"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.142557411,50.37165555
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Elphinstone Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 2NX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.134403204,50.36406643
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Freedom Park Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL4 8QF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.127442246,50.37827161
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hartley Park Public Conveniences/Store"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.130363818,50.39230421
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hoe Promenade Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 2PA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.140055188,50.36550237
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Jennycliff Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL9 9RN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.119778656,50.35200543
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Masterman Road Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL2 1BJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.166593205,50.38115208
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mountbatten Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL9 9SL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.130149803,50.36000814
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mutley Plain Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL4 6JJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.134209468,50.38354496
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Mutton Cove Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 4LB"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.176361584,50.36536469
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Pottery Quay Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 4PY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.182541091,50.37608464
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Barbican Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 2LR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.134217589,50.36670634
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bretonside Bus Station Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL4"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.137339468,50.37063629
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Regent Street Car Park Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL4"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.136016915,50.37332287
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ridgeway Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL7 2AL"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.053969342,50.38852413
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Southway Drive Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL6 6QR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.126338733,50.42927619
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Springfield Road Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL9 8PU"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.067491244,50.35827851
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"St Levan Road Public Convenience"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL2 1JR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.180028504,50.38373253
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tinside Pool Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 2NX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.140665166,50.36398017
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Hoe Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 3DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.146270723,50.36444777
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Western Approach Car Park Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL1 1QZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.148841921,50.37106666
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Whitleigh Green Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL5 4DE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.150569657,50.41852382
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Wolseley Road Public Conveniences"
+    ,"sex":"Female and male"
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"PL5 1UD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -4.185856305,50.40139534
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCE (AUTO) FRONT STREET FRONT STREET NE16 5EA"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6767,54.9457
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCE (AUTO) WESLEY COURT WESLEY COURT NE21 5AE"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7117,54.9647
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"PUBLIC CONVENIENCE (AUTO) LOWREY'S LANE LOWREY'S LANE NE9 5EY"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5974,54.9356
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"CHASE PARK PUBLIC CONVENIENCE FRONT STREET NE16 4EE"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.674,54.9442
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"DERWENT PARK PUBLIC CONVENIENCE BURNOPFIELD ROAD NE39 1LG"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7364,54.9209
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"FERNDENE PARK RYTON PUBLIC CONVENIENCE MAIN ROAD NE40 3RR"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7587,54.9737
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"SALTWELL PARK PUBLIC CONVENIENCE SALTWELL PARK NE8 4SF"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6023,54.944
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"SALTWELL PARK STABLE YARD TOILETS SALTWELL PARK NE8 4SF"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.6012,54.9432
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BIRTLEY CEMETERY PUBLIC CONVENIENCE (LADIES) WINDSOR ROAD DH3 1PQ"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5816,54.9062
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"BIRTLEY CEMETERY PUBLIC CONVENIENCE (MENS) WINDSOR ROAD DH3 1PQ"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.5814,54.9059
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"RYTON CEMETERY PUBLIC CONVENIENCE HEXHAM OLD ROAD NE40 3JQ"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":""
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.7581,54.9708
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street Burford"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX18 4QF"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.634611839,51.80852746
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"New Street Car Park Chipping Norton"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX7 5LJ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.545980239,51.93992764
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Town Hall Market Place Chipping Norton"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX7 5DD"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.544170132,51.94077625
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Spendlove Centre Enstone Road Charlbury"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX7 3PQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.47998534,51.87333901
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Back Lane Car Park Eynsham"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX29 4QP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.375285615,51.7810609
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Hensington Road Car Park Woodstock"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX20 1JQ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.350939577,51.84758393
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Browns Lane Woodstock"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX20 1ST"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.355007155,51.84742376
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Town Hall Market Square Bampton"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX18 2JH"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.544053181,51.72604214
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Langdale Gate Witney"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX28 6EY"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.482006523,51.78347469
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"The Leys Witney"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX28 4AR"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.486382044,51.77908064
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Guildenford Car Park Burford"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX18 4SE"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.631570988,51.80794029
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Oxford Road Playing Fields Eynsham"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":""
+    ,"postcode":"OX29 4DA"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.368686087,51.779006
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Black Bourton Road Carterton"
+    ,"sex":"Unisex"
+    ,"babychange":"TRUE"
+    ,"charge amount":0.10
+    ,"openinghours":"Mo-Su 07:30-19:30"
+    ,"postcode":"OX18 3DN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -1.593454327,51.7578693
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"1 Victoria Street, Mander House, Wolverhampton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WV1 3NP"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.129086918,52.58548671
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Bilston Market, Wolverhampton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WV14 0DN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.077022665,52.56429819
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Coach Station, Falkland Crescent, Wolverhampton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WV1 1JN"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.125866664,52.58968842
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"High Street, Wednesfield, Wolverhampton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WV11 1SZ"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.081737115,52.60046998
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Tettenhall Pool, Stockwell Road, Wolverhampton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WV6 9AX"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.167739517,52.60030731
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"West Park Recreation, Park Road, Wolverhampton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WV1 4PW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.140844969,52.5884579
+            ]
+    }
+},
+{
+     "type":"Feature",
+     "properties":  {
+     "type":"Public toilets"
+    ,"name":"Ashmore Park, Griffiths Drive, Wolverhampton"
+    ,"sex":""
+    ,"babychange":""
+    ,"charge amount":null
+    ,"openinghours":""
+    ,"postcode":"WV11 2JW"
+    },
+    "geometry": {
+            "type":"Point",
+            "coordinates": [
+    -2.0609678,52.614129
+            ]
+    }
+}
                     ]
                   };

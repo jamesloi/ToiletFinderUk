@@ -132,12 +132,12 @@
         "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
-        "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "C:\\Users\\James.Loi\\AndroidStudioProjects\\ToiletFinderUk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
